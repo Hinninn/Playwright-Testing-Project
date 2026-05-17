@@ -1,0 +1,72 @@
+[2026-05-17T14:15:15.991Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:15:15.991Z] TC01: Input valid email
+[2026-05-17T14:15:15.991Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:15:16.000Z] Inputting h@gmail.com into element: Email
+[2026-05-17T14:15:16.005Z] Waiting for Email to be visible...
+[2026-05-17T14:15:16.516Z] Email is visible.
+[2026-05-17T14:15:16.608Z] Clicking element: Recovery Button
+[2026-05-17T14:15:16.615Z] Waiting for Recovery Button to be visible...
+[2026-05-17T14:15:16.640Z] Recovery Button is visible.
+[2026-05-17T14:15:25.446Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:15:25.446Z] TC02: Input a valid Email address with leading and/or trailing spaces
+[2026-05-17T14:15:25.446Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:15:25.451Z] Inputting  h@gmail.com  into element: Email
+[2026-05-17T14:15:25.459Z] Waiting for Email to be visible...
+[2026-05-17T14:15:25.539Z] Email is visible.
+[2026-05-17T14:15:25.585Z] Clicking element: Recovery Button
+[2026-05-17T14:15:25.591Z] Waiting for Recovery Button to be visible...
+[2026-05-17T14:15:25.775Z] Recovery Button is visible.
+[2026-05-17T14:15:34.236Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:15:34.236Z] TC03: Input email uppercase/lowercase
+[2026-05-17T14:15:34.236Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:15:34.240Z] Inputting H@GMAIL.COM into element: Email
+[2026-05-17T14:15:34.245Z] Waiting for Email to be visible...
+[2026-05-17T14:15:34.358Z] Email is visible.
+[2026-05-17T14:15:34.697Z] Clicking element: Recovery Button
+[2026-05-17T14:15:34.700Z] Waiting for Recovery Button to be visible...
+[2026-05-17T14:15:34.756Z] Recovery Button is visible.
+[2026-05-17T14:15:43.048Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:15:43.048Z] TC04: Input unregistered email
+[2026-05-17T14:15:43.048Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:15:43.056Z] Inputting invalid@gmail.com into element: Email
+[2026-05-17T14:15:43.062Z] Waiting for Email to be visible...
+[2026-05-17T14:15:43.148Z] Email is visible.
+[2026-05-17T14:15:43.194Z] Clicking element: Recovery Button
+[2026-05-17T14:15:43.198Z] Waiting for Recovery Button to be visible...
+[2026-05-17T14:15:43.448Z] Recovery Button is visible.
+[2026-05-17T14:15:51.514Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:15:51.514Z] TC05: Leave Email empty
+[2026-05-17T14:15:51.514Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:15:51.519Z] Inputting  into element: Email
+[2026-05-17T14:15:51.522Z] Waiting for Email to be visible...
+[2026-05-17T14:15:51.603Z] Email is visible.
+[2026-05-17T14:15:51.732Z] Clicking element: Recovery Button
+[2026-05-17T14:15:51.737Z] Waiting for Recovery Button to be visible...
+[2026-05-17T14:15:51.902Z] Recovery Button is visible.
+[2026-05-17T14:15:58.801Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:15:58.801Z] TC06: Email without @
+[2026-05-17T14:15:58.801Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:15:58.808Z] Inputting abcgmail.com into element: Email
+[2026-05-17T14:15:58.816Z] Waiting for Email to be visible...
+[2026-05-17T14:15:58.911Z] Email is visible.
+[2026-05-17T14:15:59.050Z] Clicking element: Recovery Button
+[2026-05-17T14:15:59.053Z] Waiting for Recovery Button to be visible...
+[2026-05-17T14:15:59.126Z] Recovery Button is visible.
+[2026-05-17T14:16:06.792Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:16:06.792Z] TC07: Email contains space
+[2026-05-17T14:16:06.792Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:16:06.799Z] Inputting abc @gmail.com into element: Email
+[2026-05-17T14:16:06.806Z] Waiting for Email to be visible...
+[2026-05-17T14:16:06.883Z] Email is visible.
+[2026-05-17T14:16:06.916Z] Clicking element: Recovery Button
+[2026-05-17T14:16:06.919Z] Waiting for Recovery Button to be visible...
+[2026-05-17T14:16:07.057Z] Recovery Button is visible.
+[2026-05-17T14:16:14.826Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:16:14.826Z] TC08: Click link Forgot Password
+[2026-05-17T14:16:14.826Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:16:15.831Z] Clicking element: Login Link
+[2026-05-17T14:16:15.833Z] Waiting for Login Link to be visible...
+[2026-05-17T14:16:16.165Z] Login Link is visible.
+[2026-05-17T14:16:16.601Z] Clicking element: Forgot Password Link
+[2026-05-17T14:16:16.603Z] Waiting for Forgot Password Link to be visible...
+[2026-05-17T14:16:16.764Z] Forgot Password Link is visible.

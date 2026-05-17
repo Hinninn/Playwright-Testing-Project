@@ -1,0 +1,39 @@
+[2026-05-17T08:48:11.565Z] Inputting h@gmail.com into element: Email
+[2026-05-17T08:48:11.575Z] Waiting for Email to be visible...
+[2026-05-17T08:48:11.793Z] Email is visible.
+[2026-05-17T08:48:14.175Z] Inputting 123456 into element: Password
+[2026-05-17T08:48:14.179Z] Waiting for Password to be visible...
+[2026-05-17T08:48:14.206Z] Password is visible.
+[2026-05-17T08:48:15.375Z] Clicking element: Login Button
+[2026-05-17T08:48:15.378Z] Waiting for Login Button to be visible...
+[2026-05-17T08:48:15.398Z] Login Button is visible.
+[2026-05-17T08:48:18.267Z] Clicking element: Add first product to cart
+[2026-05-17T08:48:18.431Z] Waiting for Add first product to cart to be visible...
+[2026-05-17T08:48:18.768Z] Add first product to cart is visible.
+[2026-05-17T08:48:21.635Z] Clicking element: Agree to terms checkbox
+[2026-05-17T08:48:21.641Z] Waiting for Agree to terms checkbox to be visible...
+[2026-05-17T08:48:21.740Z] Agree to terms checkbox is visible.
+[2026-05-17T08:48:21.908Z] Clicking element: Checkout Button
+[2026-05-17T08:48:21.918Z] Waiting for Checkout Button to be visible...
+[2026-05-17T08:48:21.995Z] Checkout Button is visible.
+[2026-05-17T08:48:23.298Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T08:48:23.298Z] Checkout-001: Checkout successfully
+[2026-05-17T08:48:23.298Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T08:48:23.307Z] Filling Billing Address
+[2026-05-17T08:48:27.346Z] Clicking Billing Continue Button
+[2026-05-17T08:48:27.349Z] Clicking element: Billing Continue Button
+[2026-05-17T08:48:27.352Z] Waiting for Billing Continue Button to be visible...
+[2026-05-17T08:48:27.375Z] Billing Continue Button is visible.
+[2026-05-17T08:48:28.485Z] Clicking Continue button on checkout step
+[2026-05-17T08:48:28.543Z] Clicking element: Continue button
+[2026-05-17T08:48:28.547Z] Waiting for Continue button to be visible...
+[2026-05-17T08:48:28.570Z] Continue button is visible.
+[2026-05-17T08:48:29.653Z] Clicking Continue button on checkout step
+[2026-05-17T08:48:29.714Z] Clicking element: Continue button
+[2026-05-17T08:48:29.717Z] Waiting for Continue button to be visible...
+[2026-05-17T08:48:29.735Z] Continue button is visible.
+[2026-05-17T08:48:30.836Z] Clicking Continue button on checkout step
+[2026-05-17T08:48:30.887Z] Clicking element: Continue button
+[2026-05-17T08:48:30.891Z] Waiting for Continue button to be visible...
+[2026-05-17T08:48:30.910Z] Continue button is visible.
+[2026-05-17T08:48:40.609Z] Clicking Confirm Order button

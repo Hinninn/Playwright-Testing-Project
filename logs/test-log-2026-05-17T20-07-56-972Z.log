@@ -1,0 +1,27 @@
+[2026-05-17T20:08:00.314Z] Inputting h@gmail.com into element: Email
+[2026-05-17T20:08:00.316Z] Waiting for Email to be visible...
+[2026-05-17T20:08:00.401Z] Email is visible.
+[2026-05-17T20:08:01.723Z] Inputting 123456 into element: Password
+[2026-05-17T20:08:01.725Z] Waiting for Password to be visible...
+[2026-05-17T20:08:01.747Z] Password is visible.
+[2026-05-17T20:08:02.839Z] Clicking element: Login Button
+[2026-05-17T20:08:02.842Z] Waiting for Login Button to be visible...
+[2026-05-17T20:08:02.862Z] Login Button is visible.
+[2026-05-17T20:08:04.047Z] Clicking element: My Account Link
+[2026-05-17T20:08:04.050Z] Waiting for My Account Link to be visible...
+[2026-05-17T20:08:04.065Z] My Account Link is visible.
+[2026-05-17T20:08:04.450Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T20:08:04.450Z] TC06: Input duplicated Email
+[2026-05-17T20:08:04.450Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T20:08:04.458Z] Inputting Test into element: First name
+[2026-05-17T20:08:04.461Z] Waiting for First name to be visible...
+[2026-05-17T20:08:04.632Z] First name is visible.
+[2026-05-17T20:08:04.662Z] Inputting User into element: Last name
+[2026-05-17T20:08:04.664Z] Waiting for Last name to be visible...
+[2026-05-17T20:08:04.676Z] Last name is visible.
+[2026-05-17T20:08:04.718Z] Inputting existinguser@gmail.com into element: Email
+[2026-05-17T20:08:04.728Z] Waiting for Email to be visible...
+[2026-05-17T20:08:04.747Z] Email is visible.
+[2026-05-17T20:08:04.779Z] Clicking element: Save button
+[2026-05-17T20:08:04.781Z] Waiting for Save button to be visible...
+[2026-05-17T20:08:04.798Z] Save button is visible.

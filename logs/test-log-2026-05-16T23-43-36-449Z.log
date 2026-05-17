@@ -1,0 +1,54 @@
+[2026-05-16T23:43:41.366Z] Inputting h@gmail.com into element: Email
+[2026-05-16T23:43:41.373Z] Waiting for Email to be visible...
+[2026-05-16T23:43:41.477Z] Email is visible.
+[2026-05-16T23:43:42.519Z] Inputting 123456 into element: Password
+[2026-05-16T23:43:42.523Z] Waiting for Password to be visible...
+[2026-05-16T23:43:42.543Z] Password is visible.
+[2026-05-16T23:43:43.619Z] Clicking element: Login Button
+[2026-05-16T23:43:43.622Z] Waiting for Login Button to be visible...
+[2026-05-16T23:43:43.631Z] Login Button is visible.
+[2026-05-16T23:43:45.143Z] Clicking element: Add first product to cart
+[2026-05-16T23:43:45.155Z] Waiting for Add first product to cart to be visible...
+[2026-05-16T23:43:45.356Z] Add first product to cart is visible.
+[2026-05-16T23:43:46.968Z] Clicking element: Agree to terms checkbox
+[2026-05-16T23:43:46.973Z] Waiting for Agree to terms checkbox to be visible...
+[2026-05-16T23:43:47.092Z] Agree to terms checkbox is visible.
+[2026-05-16T23:43:47.159Z] Clicking element: Checkout Button
+[2026-05-16T23:43:47.161Z] Waiting for Checkout Button to be visible...
+[2026-05-16T23:43:47.176Z] Checkout Button is visible.
+[2026-05-16T23:43:49.031Z] ----------------------------------------------------------------------------------------------------
+[2026-05-16T23:43:49.031Z] TC003: Checkout unsuccessful by Billing Address (Step 1)
+[2026-05-16T23:43:49.031Z] ----------------------------------------------------------------------------------------------------
+[2026-05-16T23:43:49.035Z] Filling Billing Address
+[2026-05-16T23:43:49.039Z] Inputting  into element: First Name
+[2026-05-16T23:43:49.042Z] Waiting for First Name to be visible...
+[2026-05-16T23:43:49.063Z] First Name is visible.
+[2026-05-16T23:43:49.119Z] Inputting Doe into element: Last Name
+[2026-05-16T23:43:49.124Z] Waiting for Last Name to be visible...
+[2026-05-16T23:43:49.143Z] Last Name is visible.
+[2026-05-16T23:43:49.175Z] Inputting john.doe@example.com into element: Email
+[2026-05-16T23:43:49.178Z] Waiting for Email to be visible...
+[2026-05-16T23:43:49.194Z] Email is visible.
+[2026-05-16T23:43:49.241Z] Inputting  into element: Company
+[2026-05-16T23:43:49.247Z] Waiting for Company to be visible...
+[2026-05-16T23:43:49.278Z] Company is visible.
+[2026-05-16T23:43:49.372Z] Inputting New York into element: City
+[2026-05-16T23:43:49.374Z] Waiting for City to be visible...
+[2026-05-16T23:43:49.387Z] City is visible.
+[2026-05-16T23:43:49.424Z] Inputting 123 Main St into element: Address
+[2026-05-16T23:43:49.428Z] Waiting for Address to be visible...
+[2026-05-16T23:43:49.455Z] Address is visible.
+[2026-05-16T23:43:49.512Z] Inputting  into element: Address 2
+[2026-05-16T23:43:49.514Z] Waiting for Address 2 to be visible...
+[2026-05-16T23:43:49.536Z] Address 2 is visible.
+[2026-05-16T23:43:49.606Z] Inputting 10001 into element: Zip Code
+[2026-05-16T23:43:49.611Z] Waiting for Zip Code to be visible...
+[2026-05-16T23:43:49.640Z] Zip Code is visible.
+[2026-05-16T23:43:49.683Z] Inputting 123-456-7890 into element: Phone Number
+[2026-05-16T23:43:49.688Z] Waiting for Phone Number to be visible...
+[2026-05-16T23:43:49.708Z] Phone Number is visible.
+[2026-05-16T23:43:50.767Z] Clicking Billing Continue Button
+[2026-05-16T23:43:50.771Z] Clicking element: Billing Continue Button
+[2026-05-16T23:43:50.773Z] Waiting for Billing Continue Button to be visible...
+[2026-05-16T23:43:50.782Z] Billing Continue Button is visible.
+[2026-05-16T23:43:51.832Z] Getting Dialog Message

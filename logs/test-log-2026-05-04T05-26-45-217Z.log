@@ -1,0 +1,9 @@
+[2026-05-04T05:26:47.240Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T05:26:47.240Z] TC08: từ Login mở trang Forgot password
+[2026-05-04T05:26:47.240Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T05:26:47.528Z] Clicking element: Login Link
+[2026-05-04T05:26:47.530Z] Waiting for Login Link to be visible...
+[2026-05-04T05:26:53.604Z] Login Link is visible.
+[2026-05-04T05:26:54.020Z] Clicking element: Forgot Password Link
+[2026-05-04T05:26:54.023Z] Waiting for Forgot Password Link to be visible...
+[2026-05-04T05:26:54.093Z] Forgot Password Link is visible.

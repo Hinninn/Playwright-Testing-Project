@@ -1,0 +1,24 @@
+[2026-05-17T21:11:39.763Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T21:11:39.763Z] TC004: Leave Email empty
+[2026-05-17T21:11:39.763Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T21:11:39.782Z] Inputting  into element: Email
+[2026-05-17T21:11:39.790Z] Waiting for Email to be visible...
+[2026-05-17T21:11:40.818Z] Email is visible.
+[2026-05-17T21:11:41.932Z] Inputting 123456 into element: Password
+[2026-05-17T21:11:41.936Z] Waiting for Password to be visible...
+[2026-05-17T21:11:41.978Z] Password is visible.
+[2026-05-17T21:11:43.055Z] Clicking element: Login Button
+[2026-05-17T21:11:43.061Z] Waiting for Login Button to be visible...
+[2026-05-17T21:11:43.135Z] Login Button is visible.
+[2026-05-17T21:11:51.382Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T21:11:51.382Z] TC009: Input email containing '#'
+[2026-05-17T21:11:51.382Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T21:11:51.393Z] Inputting abc#@gmail.com into element: Email
+[2026-05-17T21:11:51.409Z] Waiting for Email to be visible...
+[2026-05-17T21:11:51.933Z] Email is visible.
+[2026-05-17T21:11:53.434Z] Inputting 123456 into element: Password
+[2026-05-17T21:11:53.437Z] Waiting for Password to be visible...
+[2026-05-17T21:11:53.456Z] Password is visible.
+[2026-05-17T21:11:54.591Z] Clicking element: Login Button
+[2026-05-17T21:11:54.595Z] Waiting for Login Button to be visible...
+[2026-05-17T21:11:54.610Z] Login Button is visible.

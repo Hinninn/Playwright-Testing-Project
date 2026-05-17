@@ -1,0 +1,26 @@
+[2026-05-17T08:00:26.820Z] Inputting h@gmail.com into element: Email
+[2026-05-17T08:00:26.826Z] Waiting for Email to be visible...
+[2026-05-17T08:00:27.019Z] Email is visible.
+[2026-05-17T08:00:28.289Z] Inputting 123456 into element: Password
+[2026-05-17T08:00:28.293Z] Waiting for Password to be visible...
+[2026-05-17T08:00:28.317Z] Password is visible.
+[2026-05-17T08:00:29.401Z] Clicking element: Login Button
+[2026-05-17T08:00:29.405Z] Waiting for Login Button to be visible...
+[2026-05-17T08:00:29.431Z] Login Button is visible.
+[2026-05-17T08:00:30.908Z] Clicking element: Add first product to cart
+[2026-05-17T08:00:30.911Z] Waiting for Add first product to cart to be visible...
+[2026-05-17T08:00:31.067Z] Add first product to cart is visible.
+[2026-05-17T08:00:32.805Z] Clicking element: Agree to terms checkbox
+[2026-05-17T08:00:32.810Z] Waiting for Agree to terms checkbox to be visible...
+[2026-05-17T08:00:32.835Z] Agree to terms checkbox is visible.
+[2026-05-17T08:00:32.940Z] Clicking element: Checkout Button
+[2026-05-17T08:00:32.946Z] Waiting for Checkout Button to be visible...
+[2026-05-17T08:00:32.971Z] Checkout Button is visible.
+[2026-05-17T08:00:33.937Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T08:00:33.937Z] Checkout-003: Leave First name empty
+[2026-05-17T08:00:33.937Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T08:00:33.943Z] Filling Billing Address
+[2026-05-17T08:00:37.165Z] Clicking Billing Continue Button
+[2026-05-17T08:00:37.168Z] Clicking element: Billing Continue Button
+[2026-05-17T08:00:37.171Z] Waiting for Billing Continue Button to be visible...
+[2026-05-17T08:00:37.191Z] Billing Continue Button is visible.

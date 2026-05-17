@@ -1,0 +1,18 @@
+[2026-05-04T04:56:05.511Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T04:56:05.511Z] TC05: Input empty email
+[2026-05-04T04:56:05.511Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T04:56:05.515Z] Inputting  into element: Email
+[2026-05-04T04:56:05.518Z] Waiting for Email to be visible...
+[2026-05-04T04:56:12.650Z] Email is visible.
+[2026-05-04T04:56:12.682Z] Clicking element: Recovery Button
+[2026-05-04T04:56:12.685Z] Waiting for Recovery Button to be visible...
+[2026-05-04T04:56:12.701Z] Recovery Button is visible.
+[2026-05-04T04:56:20.504Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T04:56:20.504Z] TC06: Input invalid email format
+[2026-05-04T04:56:20.504Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T04:56:20.507Z] Inputting abcgmail.com into element: Email
+[2026-05-04T04:56:20.510Z] Waiting for Email to be visible...
+[2026-05-04T04:56:25.552Z] Email is visible.
+[2026-05-04T04:56:25.595Z] Clicking element: Recovery Button
+[2026-05-04T04:56:25.601Z] Waiting for Recovery Button to be visible...
+[2026-05-04T04:56:25.636Z] Recovery Button is visible.

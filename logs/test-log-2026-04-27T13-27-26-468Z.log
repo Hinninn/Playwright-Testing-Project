@@ -1,0 +1,9 @@
+[2026-04-27T13:27:29.029Z] ----------------------------------------------------------------------------------------------------
+[2026-04-27T13:27:29.029Z] TC06: Input invalid email format
+[2026-04-27T13:27:29.029Z] ----------------------------------------------------------------------------------------------------
+[2026-04-27T13:27:29.040Z] Inputting abcgmail.com into element: Email
+[2026-04-27T13:27:29.045Z] Waiting for Email to be visible...
+[2026-04-27T13:27:29.131Z] Email is visible.
+[2026-04-27T13:27:29.185Z] Clicking element: Recovery Button
+[2026-04-27T13:27:29.190Z] Waiting for Recovery Button to be visible...
+[2026-04-27T13:27:29.345Z] Recovery Button is visible.

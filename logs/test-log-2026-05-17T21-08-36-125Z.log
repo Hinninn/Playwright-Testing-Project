@@ -1,0 +1,12 @@
+[2026-05-17T21:08:41.516Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T21:08:41.516Z] TC009: Input email containing '#'
+[2026-05-17T21:08:41.516Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T21:08:41.531Z] Inputting abc#@gmail.com into element: Email
+[2026-05-17T21:08:41.537Z] Waiting for Email to be visible...
+[2026-05-17T21:08:42.507Z] Email is visible.
+[2026-05-17T21:08:43.642Z] Inputting 123456 into element: Password
+[2026-05-17T21:08:43.646Z] Waiting for Password to be visible...
+[2026-05-17T21:08:43.692Z] Password is visible.
+[2026-05-17T21:08:44.826Z] Clicking element: Login Button
+[2026-05-17T21:08:44.829Z] Waiting for Login Button to be visible...
+[2026-05-17T21:08:44.861Z] Login Button is visible.

@@ -1,0 +1,24 @@
+[2026-05-15T09:01:57.368Z] ----------------------------------------------------------------------------------------------------
+[2026-05-15T09:01:57.368Z] TC12: password sai
+[2026-05-15T09:01:57.368Z] ----------------------------------------------------------------------------------------------------
+[2026-05-15T09:01:57.371Z] Inputting h@gmail.com into element: Email
+[2026-05-15T09:01:57.373Z] Waiting for Email to be visible...
+[2026-05-15T09:01:57.457Z] Email is visible.
+[2026-05-15T09:01:58.509Z] Inputting wrongpass into element: Password
+[2026-05-15T09:01:58.512Z] Waiting for Password to be visible...
+[2026-05-15T09:01:58.529Z] Password is visible.
+[2026-05-15T09:01:59.575Z] Clicking element: Login Button
+[2026-05-15T09:01:59.577Z] Waiting for Login Button to be visible...
+[2026-05-15T09:01:59.584Z] Login Button is visible.
+[2026-05-15T09:02:05.923Z] ----------------------------------------------------------------------------------------------------
+[2026-05-15T09:02:05.923Z] TC13: password quá dài
+[2026-05-15T09:02:05.923Z] ----------------------------------------------------------------------------------------------------
+[2026-05-15T09:02:05.927Z] Inputting h@gmail.com into element: Email
+[2026-05-15T09:02:05.931Z] Waiting for Email to be visible...
+[2026-05-15T09:02:05.977Z] Email is visible.
+[2026-05-15T09:02:07.005Z] Inputting pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp into element: Password
+[2026-05-15T09:02:07.007Z] Waiting for Password to be visible...
+[2026-05-15T09:02:07.017Z] Password is visible.
+[2026-05-15T09:02:08.071Z] Clicking element: Login Button
+[2026-05-15T09:02:08.072Z] Waiting for Login Button to be visible...
+[2026-05-15T09:02:08.081Z] Login Button is visible.

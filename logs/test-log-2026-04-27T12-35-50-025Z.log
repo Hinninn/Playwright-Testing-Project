@@ -1,0 +1,9 @@
+[2026-04-27T12:35:53.858Z] ----------------------------------------------------------------------------------------------------
+[2026-04-27T12:35:53.858Z] TC01: Input valid email
+[2026-04-27T12:35:53.858Z] ----------------------------------------------------------------------------------------------------
+[2026-04-27T12:35:53.870Z] Inputting h@gmail.com into element: Email
+[2026-04-27T12:35:53.874Z] Waiting for Email to be visible...
+[2026-04-27T12:35:53.968Z] Email is visible.
+[2026-04-27T12:35:54.044Z] Clicking element: Recovery Button
+[2026-04-27T12:35:54.050Z] Waiting for Recovery Button to be visible...
+[2026-04-27T12:35:54.420Z] Recovery Button is visible.

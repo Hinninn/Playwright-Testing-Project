@@ -1,0 +1,8 @@
+{
+  "URL": "https://demo.nopcommerce.com/login",
+  "VALID": {
+    "EMAIL": "h@gmail.com",
+    "PASSWORD": "123456"
+  },
+  "TITLE": "nopCommerce demo store. Home page title"
+}

@@ -1,0 +1,22 @@
+[2026-05-17T08:10:21.676Z] Inputting h@gmail.com into element: Email
+[2026-05-17T08:10:21.681Z] Waiting for Email to be visible...
+[2026-05-17T08:10:21.776Z] Email is visible.
+[2026-05-17T08:10:22.822Z] Inputting 123456 into element: Password
+[2026-05-17T08:10:22.825Z] Waiting for Password to be visible...
+[2026-05-17T08:10:22.836Z] Password is visible.
+[2026-05-17T08:10:23.902Z] Clicking element: Login Button
+[2026-05-17T08:10:23.905Z] Waiting for Login Button to be visible...
+[2026-05-17T08:10:23.920Z] Login Button is visible.
+[2026-05-17T08:10:25.439Z] Clicking element: Add first product to cart
+[2026-05-17T08:10:25.442Z] Waiting for Add first product to cart to be visible...
+[2026-05-17T08:10:25.706Z] Add first product to cart is visible.
+[2026-05-17T08:10:27.469Z] Clicking element: Agree to terms checkbox
+[2026-05-17T08:10:27.472Z] Waiting for Agree to terms checkbox to be visible...
+[2026-05-17T08:10:27.505Z] Agree to terms checkbox is visible.
+[2026-05-17T08:10:27.605Z] Clicking element: Checkout Button
+[2026-05-17T08:10:27.607Z] Waiting for Checkout Button to be visible...
+[2026-05-17T08:10:27.622Z] Checkout Button is visible.
+[2026-05-17T08:10:29.173Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T08:10:29.173Z] Checkout-012: Leave Zip/postal code empty
+[2026-05-17T08:10:29.173Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T08:10:29.177Z] Filling Billing Address

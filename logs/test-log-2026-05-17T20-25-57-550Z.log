@@ -1,0 +1,27 @@
+[2026-05-17T20:26:00.683Z] Inputting h@gmail.com into element: Email
+[2026-05-17T20:26:00.689Z] Waiting for Email to be visible...
+[2026-05-17T20:26:01.163Z] Email is visible.
+[2026-05-17T20:26:02.268Z] Inputting 123456 into element: Password
+[2026-05-17T20:26:02.273Z] Waiting for Password to be visible...
+[2026-05-17T20:26:02.301Z] Password is visible.
+[2026-05-17T20:26:03.389Z] Clicking element: Login Button
+[2026-05-17T20:26:03.393Z] Waiting for Login Button to be visible...
+[2026-05-17T20:26:03.415Z] Login Button is visible.
+[2026-05-17T20:26:04.393Z] Clicking element: My Account Link
+[2026-05-17T20:26:04.398Z] Waiting for My Account Link to be visible...
+[2026-05-17T20:26:04.532Z] My Account Link is visible.
+[2026-05-17T20:26:04.951Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T20:26:04.951Z] TC09: Input email containing "#" character
+[2026-05-17T20:26:04.951Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T20:26:04.959Z] Inputting Test into element: First name
+[2026-05-17T20:26:04.968Z] Waiting for First name to be visible...
+[2026-05-17T20:26:05.082Z] First name is visible.
+[2026-05-17T20:26:05.117Z] Inputting User into element: Last name
+[2026-05-17T20:26:05.120Z] Waiting for Last name to be visible...
+[2026-05-17T20:26:05.147Z] Last name is visible.
+[2026-05-17T20:26:05.204Z] Inputting abc#@gmail.com into element: Email
+[2026-05-17T20:26:05.212Z] Waiting for Email to be visible...
+[2026-05-17T20:26:05.237Z] Email is visible.
+[2026-05-17T20:26:05.283Z] Clicking element: Save button
+[2026-05-17T20:26:05.290Z] Waiting for Save button to be visible...
+[2026-05-17T20:26:05.312Z] Save button is visible.

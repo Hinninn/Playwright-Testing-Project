@@ -1,0 +1,9 @@
+[2026-05-04T04:55:38.427Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T04:55:38.427Z] TC03: email không phân biệt hoa thường
+[2026-05-04T04:55:38.427Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T04:55:38.433Z] Inputting S@GMAIL.COM into element: Email
+[2026-05-04T04:55:38.436Z] Waiting for Email to be visible...
+[2026-05-04T04:55:45.501Z] Email is visible.
+[2026-05-04T04:55:45.541Z] Clicking element: Recovery Button
+[2026-05-04T04:55:45.543Z] Waiting for Recovery Button to be visible...
+[2026-05-04T04:55:45.568Z] Recovery Button is visible.

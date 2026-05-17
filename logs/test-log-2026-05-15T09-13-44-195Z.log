@@ -1,0 +1,12 @@
+[2026-05-15T09:13:46.160Z] ----------------------------------------------------------------------------------------------------
+[2026-05-15T09:13:46.160Z] TC13: password quá dài
+[2026-05-15T09:13:46.160Z] ----------------------------------------------------------------------------------------------------
+[2026-05-15T09:13:46.163Z] Inputting h@gmail.com into element: Email
+[2026-05-15T09:13:46.164Z] Waiting for Email to be visible...
+[2026-05-15T09:13:46.236Z] Email is visible.
+[2026-05-15T09:13:47.286Z] Inputting pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp into element: Password
+[2026-05-15T09:13:47.289Z] Waiting for Password to be visible...
+[2026-05-15T09:13:47.304Z] Password is visible.
+[2026-05-15T09:13:48.352Z] Clicking element: Login Button
+[2026-05-15T09:13:48.354Z] Waiting for Login Button to be visible...
+[2026-05-15T09:13:48.366Z] Login Button is visible.

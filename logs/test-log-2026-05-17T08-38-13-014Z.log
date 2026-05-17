@@ -1,0 +1,27 @@
+[2026-05-17T08:38:19.251Z] Inputting h@gmail.com into element: Email
+[2026-05-17T08:38:19.263Z] Waiting for Email to be visible...
+[2026-05-17T08:38:21.204Z] Email is visible.
+[2026-05-17T08:38:22.508Z] Inputting 123456 into element: Password
+[2026-05-17T08:38:22.511Z] Waiting for Password to be visible...
+[2026-05-17T08:38:22.536Z] Password is visible.
+[2026-05-17T08:38:23.732Z] Clicking element: Login Button
+[2026-05-17T08:38:23.735Z] Waiting for Login Button to be visible...
+[2026-05-17T08:38:23.762Z] Login Button is visible.
+[2026-05-17T08:38:25.638Z] Clicking element: Add first product to cart
+[2026-05-17T08:38:25.645Z] Waiting for Add first product to cart to be visible...
+[2026-05-17T08:38:25.913Z] Add first product to cart is visible.
+[2026-05-17T08:38:28.333Z] Clicking element: Agree to terms checkbox
+[2026-05-17T08:38:28.338Z] Waiting for Agree to terms checkbox to be visible...
+[2026-05-17T08:38:28.444Z] Agree to terms checkbox is visible.
+[2026-05-17T08:38:28.580Z] Clicking element: Checkout Button
+[2026-05-17T08:38:28.583Z] Waiting for Checkout Button to be visible...
+[2026-05-17T08:38:28.621Z] Checkout Button is visible.
+[2026-05-17T08:38:29.927Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T08:38:29.927Z] Checkout-007: Do not select a country
+[2026-05-17T08:38:29.927Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T08:38:29.933Z] Filling Billing Address
+[2026-05-17T08:38:32.346Z] Clicking Billing Continue Button
+[2026-05-17T08:38:32.351Z] Clicking element: Billing Continue Button
+[2026-05-17T08:38:32.356Z] Waiting for Billing Continue Button to be visible...
+[2026-05-17T08:38:32.388Z] Billing Continue Button is visible.
+[2026-05-17T08:38:32.833Z] Native alert: Country is required.

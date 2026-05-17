@@ -1,0 +1,27 @@
+[2026-05-17T00:06:33.168Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T00:06:33.168Z] TC04: Input unregistered email
+[2026-05-17T00:06:33.168Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T00:06:33.175Z] Inputting invalid@gmail.com into element: Email
+[2026-05-17T00:06:33.178Z] Waiting for Email to be visible...
+[2026-05-17T00:06:33.269Z] Email is visible.
+[2026-05-17T00:06:33.305Z] Clicking element: Recovery Button
+[2026-05-17T00:06:33.307Z] Waiting for Recovery Button to be visible...
+[2026-05-17T00:06:33.320Z] Recovery Button is visible.
+[2026-05-17T00:06:40.417Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T00:06:40.417Z] TC05: Leave Email empty
+[2026-05-17T00:06:40.417Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T00:06:40.439Z] Inputting  into element: Email
+[2026-05-17T00:06:40.456Z] Waiting for Email to be visible...
+[2026-05-17T00:06:40.572Z] Email is visible.
+[2026-05-17T00:06:40.671Z] Clicking element: Recovery Button
+[2026-05-17T00:06:40.681Z] Waiting for Recovery Button to be visible...
+[2026-05-17T00:06:40.702Z] Recovery Button is visible.
+[2026-05-17T00:06:46.842Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T00:06:46.842Z] TC06: Email without @
+[2026-05-17T00:06:46.842Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T00:06:46.847Z] Inputting abcgmail.com into element: Email
+[2026-05-17T00:06:46.850Z] Waiting for Email to be visible...
+[2026-05-17T00:06:46.910Z] Email is visible.
+[2026-05-17T00:06:46.976Z] Clicking element: Recovery Button
+[2026-05-17T00:06:46.980Z] Waiting for Recovery Button to be visible...
+[2026-05-17T00:06:47.019Z] Recovery Button is visible.

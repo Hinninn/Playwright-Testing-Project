@@ -1,0 +1,12 @@
+[2026-05-16T15:43:07.620Z] ----------------------------------------------------------------------------------------------------
+[2026-05-16T15:43:07.620Z] TC10: email chỉ có @
+[2026-05-16T15:43:07.620Z] ----------------------------------------------------------------------------------------------------
+[2026-05-16T15:43:07.625Z] Inputting @ into element: Email
+[2026-05-16T15:43:07.638Z] Waiting for Email to be visible...
+[2026-05-16T15:43:07.860Z] Email is visible.
+[2026-05-16T15:43:08.949Z] Inputting 123456 into element: Password
+[2026-05-16T15:43:08.952Z] Waiting for Password to be visible...
+[2026-05-16T15:43:08.982Z] Password is visible.
+[2026-05-16T15:43:10.096Z] Clicking element: Login Button
+[2026-05-16T15:43:10.098Z] Waiting for Login Button to be visible...
+[2026-05-16T15:43:10.113Z] Login Button is visible.

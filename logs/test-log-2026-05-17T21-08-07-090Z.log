@@ -1,0 +1,12 @@
+[2026-05-17T21:08:11.816Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T21:08:11.816Z] TC004: Leave Email empty
+[2026-05-17T21:08:11.816Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T21:08:11.836Z] Inputting  into element: Email
+[2026-05-17T21:08:11.849Z] Waiting for Email to be visible...
+[2026-05-17T21:08:13.047Z] Email is visible.
+[2026-05-17T21:08:14.175Z] Inputting 123456 into element: Password
+[2026-05-17T21:08:14.180Z] Waiting for Password to be visible...
+[2026-05-17T21:08:14.222Z] Password is visible.
+[2026-05-17T21:08:15.412Z] Clicking element: Login Button
+[2026-05-17T21:08:15.418Z] Waiting for Login Button to be visible...
+[2026-05-17T21:08:15.513Z] Login Button is visible.

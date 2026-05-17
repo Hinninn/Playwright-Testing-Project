@@ -1,0 +1,8 @@
+[2026-04-27T07:04:02.934Z] ----------------------------------------------------------------------------------------------------
+[2026-04-27T07:04:02.934Z] TC01: Input valid email
+[2026-04-27T07:04:02.934Z] ----------------------------------------------------------------------------------------------------
+[2026-04-27T07:04:02.964Z] Inputting testuser@gmail.com into element: Email
+[2026-04-27T07:04:02.977Z] Waiting for Email to be visible...
+[2026-04-27T07:04:03.443Z] Email is visible.
+[2026-04-27T07:04:04.136Z] Clicking element: Forgot Password Link
+[2026-04-27T07:04:04.145Z] Waiting for Forgot Password Link to be visible...

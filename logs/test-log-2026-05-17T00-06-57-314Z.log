@@ -1,0 +1,9 @@
+[2026-05-17T00:06:59.898Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T00:06:59.898Z] TC08: Click link Forgot Password
+[2026-05-17T00:06:59.898Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T00:07:00.640Z] Clicking element: Login Link
+[2026-05-17T00:07:00.644Z] Waiting for Login Link to be visible...
+[2026-05-17T00:07:00.872Z] Login Link is visible.
+[2026-05-17T00:07:01.598Z] Clicking element: Forgot Password Link
+[2026-05-17T00:07:01.603Z] Waiting for Forgot Password Link to be visible...
+[2026-05-17T00:07:01.646Z] Forgot Password Link is visible.

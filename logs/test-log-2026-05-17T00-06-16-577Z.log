@@ -1,0 +1,9 @@
+[2026-05-17T00:06:19.822Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T00:06:19.822Z] TC02: Input a valid Email address with leading and/or trailing spaces
+[2026-05-17T00:06:19.822Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T00:06:19.827Z] Inputting  s@gmail.com  into element: Email
+[2026-05-17T00:06:19.838Z] Waiting for Email to be visible...
+[2026-05-17T00:06:20.025Z] Email is visible.
+[2026-05-17T00:06:20.119Z] Clicking element: Recovery Button
+[2026-05-17T00:06:20.135Z] Waiting for Recovery Button to be visible...
+[2026-05-17T00:06:20.169Z] Recovery Button is visible.

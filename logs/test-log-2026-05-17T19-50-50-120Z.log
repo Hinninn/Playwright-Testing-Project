@@ -1,0 +1,9 @@
+[2026-05-17T19:50:53.021Z] Inputting h@gmail.com into element: Email
+[2026-05-17T19:50:53.027Z] Waiting for Email to be visible...
+[2026-05-17T19:50:53.146Z] Email is visible.
+[2026-05-17T19:50:54.504Z] Inputting 123456 into element: Password
+[2026-05-17T19:50:54.506Z] Waiting for Password to be visible...
+[2026-05-17T19:50:54.515Z] Password is visible.
+[2026-05-17T19:50:55.570Z] Clicking element: Login Button
+[2026-05-17T19:50:55.574Z] Waiting for Login Button to be visible...
+[2026-05-17T19:50:55.591Z] Login Button is visible.

@@ -1,0 +1,57 @@
+[2026-05-17T20:12:18.321Z] Inputting h@gmail.com into element: Email
+[2026-05-17T20:12:18.325Z] Waiting for Email to be visible...
+[2026-05-17T20:12:18.404Z] Email is visible.
+[2026-05-17T20:12:19.448Z] Inputting 123456 into element: Password
+[2026-05-17T20:12:19.452Z] Waiting for Password to be visible...
+[2026-05-17T20:12:19.472Z] Password is visible.
+[2026-05-17T20:12:20.515Z] Clicking element: Login Button
+[2026-05-17T20:12:20.518Z] Waiting for Login Button to be visible...
+[2026-05-17T20:12:20.532Z] Login Button is visible.
+[2026-05-17T20:12:21.344Z] Clicking element: My Account Link
+[2026-05-17T20:12:21.347Z] Waiting for My Account Link to be visible...
+[2026-05-17T20:12:21.489Z] My Account Link is visible.
+[2026-05-17T20:12:21.874Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T20:12:21.874Z] TC07: Input only spaces in First name
+[2026-05-17T20:12:21.874Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T20:12:21.878Z] Inputting     into element: First name
+[2026-05-17T20:12:21.882Z] Waiting for First name to be visible...
+[2026-05-17T20:12:22.003Z] First name is visible.
+[2026-05-17T20:12:22.031Z] Inputting User into element: Last name
+[2026-05-17T20:12:22.035Z] Waiting for Last name to be visible...
+[2026-05-17T20:12:22.056Z] Last name is visible.
+[2026-05-17T20:12:22.095Z] Inputting testuser@gmail.com into element: Email
+[2026-05-17T20:12:22.101Z] Waiting for Email to be visible...
+[2026-05-17T20:12:22.125Z] Email is visible.
+[2026-05-17T20:12:22.157Z] Clicking element: Save button
+[2026-05-17T20:12:22.160Z] Waiting for Save button to be visible...
+[2026-05-17T20:12:22.184Z] Save button is visible.
+[2026-05-17T20:12:25.035Z] Inputting h@gmail.com into element: Email
+[2026-05-17T20:12:25.037Z] Waiting for Email to be visible...
+[2026-05-17T20:12:25.086Z] Email is visible.
+[2026-05-17T20:12:26.129Z] Inputting 123456 into element: Password
+[2026-05-17T20:12:26.132Z] Waiting for Password to be visible...
+[2026-05-17T20:12:26.144Z] Password is visible.
+[2026-05-17T20:12:27.197Z] Clicking element: Login Button
+[2026-05-17T20:12:27.200Z] Waiting for Login Button to be visible...
+[2026-05-17T20:12:27.211Z] Login Button is visible.
+[2026-05-17T20:12:28.236Z] Clicking element: My Account Link
+[2026-05-17T20:12:28.237Z] Waiting for My Account Link to be visible...
+[2026-05-17T20:12:28.243Z] My Account Link is visible.
+[2026-05-17T20:12:28.610Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T20:12:28.610Z] TC08:  Input excessively long string in Company Name
+[2026-05-17T20:12:28.610Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T20:12:28.614Z] Inputting Test into element: First name
+[2026-05-17T20:12:28.616Z] Waiting for First name to be visible...
+[2026-05-17T20:12:28.709Z] First name is visible.
+[2026-05-17T20:12:28.739Z] Inputting User into element: Last name
+[2026-05-17T20:12:28.742Z] Waiting for Last name to be visible...
+[2026-05-17T20:12:28.764Z] Last name is visible.
+[2026-05-17T20:12:28.803Z] Inputting testuser@gmail.com into element: Email
+[2026-05-17T20:12:28.807Z] Waiting for Email to be visible...
+[2026-05-17T20:12:28.827Z] Email is visible.
+[2026-05-17T20:12:28.855Z] Inputting Coooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo into element: Company
+[2026-05-17T20:12:28.859Z] Waiting for Company to be visible...
+[2026-05-17T20:12:28.885Z] Company is visible.
+[2026-05-17T20:12:28.904Z] Clicking element: Save button
+[2026-05-17T20:12:28.905Z] Waiting for Save button to be visible...
+[2026-05-17T20:12:28.917Z] Save button is visible.

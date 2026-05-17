@@ -1,0 +1,46 @@
+[2026-05-17T14:24:06.869Z] Inputting h@gmail.com into element: Email
+[2026-05-17T14:24:06.921Z] Waiting for Email to be visible...
+[2026-05-17T14:24:08.407Z] Email is visible.
+[2026-05-17T14:24:09.582Z] Inputting 123456 into element: Password
+[2026-05-17T14:24:09.589Z] Waiting for Password to be visible...
+[2026-05-17T14:24:09.644Z] Password is visible.
+[2026-05-17T14:24:10.820Z] Clicking element: Login Button
+[2026-05-17T14:24:10.827Z] Waiting for Login Button to be visible...
+[2026-05-17T14:24:10.943Z] Login Button is visible.
+[2026-05-17T14:24:12.673Z] Clicking element: Add first product to cart
+[2026-05-17T14:24:12.688Z] Waiting for Add first product to cart to be visible...
+[2026-05-17T14:24:13.281Z] Add first product to cart is visible.
+[2026-05-17T14:24:15.652Z] Clicking element: Agree to terms checkbox
+[2026-05-17T14:24:15.688Z] Waiting for Agree to terms checkbox to be visible...
+[2026-05-17T14:24:15.742Z] Agree to terms checkbox is visible.
+[2026-05-17T14:24:15.972Z] Clicking element: Checkout Button
+[2026-05-17T14:24:15.990Z] Waiting for Checkout Button to be visible...
+[2026-05-17T14:24:16.143Z] Checkout Button is visible.
+[2026-05-17T14:24:17.283Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:24:17.283Z] Checkout-001: Checkout successfully
+[2026-05-17T14:24:17.283Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T14:24:17.291Z] Filling Billing Address
+[2026-05-17T14:24:21.369Z] Clicking Billing Continue Button
+[2026-05-17T14:24:21.373Z] Clicking element: Billing Continue Button
+[2026-05-17T14:24:21.378Z] Waiting for Billing Continue Button to be visible...
+[2026-05-17T14:24:21.410Z] Billing Continue Button is visible.
+[2026-05-17T14:24:21.848Z] Clicking Shipping Method Continue Button
+[2026-05-17T14:24:21.856Z] Clicking element: Shipping Method Continue Button
+[2026-05-17T14:24:21.867Z] Waiting for Shipping Method Continue Button to be visible...
+[2026-05-17T14:24:21.942Z] Shipping Method Continue Button is visible.
+[2026-05-17T14:24:22.380Z] Clicking Payment Method Continue Button
+[2026-05-17T14:24:22.387Z] Clicking element: Payment Method Continue Button
+[2026-05-17T14:24:22.394Z] Waiting for Payment Method Continue Button to be visible...
+[2026-05-17T14:24:22.467Z] Payment Method Continue Button is visible.
+[2026-05-17T14:24:23.532Z] Clicking Payment Info Continue Button
+[2026-05-17T14:24:23.535Z] Clicking element: Payment Info Continue Button
+[2026-05-17T14:24:23.539Z] Waiting for Payment Info Continue Button to be visible...
+[2026-05-17T14:24:23.566Z] Payment Info Continue Button is visible.
+[2026-05-17T14:24:23.714Z] Clicking Confirm Order Button
+[2026-05-17T14:24:23.719Z] Clicking element: Confirm Order Button
+[2026-05-17T14:24:23.724Z] Waiting for Confirm Order Button to be visible...
+[2026-05-17T14:24:24.161Z] Confirm Order Button is visible.
+[2026-05-17T14:24:25.262Z] Clicking Order Completed Continue Button
+[2026-05-17T14:24:25.269Z] Clicking element: Order Completed Continue Button
+[2026-05-17T14:24:25.273Z] Waiting for Order Completed Continue Button to be visible...
+[2026-05-17T14:24:25.299Z] Order Completed Continue Button is visible.

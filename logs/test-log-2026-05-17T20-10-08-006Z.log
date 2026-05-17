@@ -1,0 +1,63 @@
+[2026-05-17T20:10:11.201Z] Inputting h@gmail.com into element: Email
+[2026-05-17T20:10:11.205Z] Waiting for Email to be visible...
+[2026-05-17T20:10:11.291Z] Email is visible.
+[2026-05-17T20:10:12.514Z] Inputting 123456 into element: Password
+[2026-05-17T20:10:12.517Z] Waiting for Password to be visible...
+[2026-05-17T20:10:12.537Z] Password is visible.
+[2026-05-17T20:10:13.598Z] Clicking element: Login Button
+[2026-05-17T20:10:13.600Z] Waiting for Login Button to be visible...
+[2026-05-17T20:10:13.610Z] Login Button is visible.
+[2026-05-17T20:10:14.679Z] Clicking element: My Account Link
+[2026-05-17T20:10:14.686Z] Waiting for My Account Link to be visible...
+[2026-05-17T20:10:14.708Z] My Account Link is visible.
+[2026-05-17T20:10:15.091Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T20:10:15.091Z] TC02: Leave mandatory First name empty
+[2026-05-17T20:10:15.091Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T20:10:15.103Z] Inputting  into element: First name
+[2026-05-17T20:10:15.106Z] Waiting for First name to be visible...
+[2026-05-17T20:10:15.206Z] First name is visible.
+[2026-05-17T20:10:15.240Z] Inputting User into element: Last name
+[2026-05-17T20:10:15.242Z] Waiting for Last name to be visible...
+[2026-05-17T20:10:15.272Z] Last name is visible.
+[2026-05-17T20:10:15.303Z] Inputting testuser@gmail.com into element: Email
+[2026-05-17T20:10:15.306Z] Waiting for Email to be visible...
+[2026-05-17T20:10:15.323Z] Email is visible.
+[2026-05-17T20:10:15.355Z] Clicking element: Save button
+[2026-05-17T20:10:15.362Z] Waiting for Save button to be visible...
+[2026-05-17T20:10:15.387Z] Save button is visible.
+[2026-05-17T20:10:17.879Z] Inputting h@gmail.com into element: Email
+[2026-05-17T20:10:17.886Z] Waiting for Email to be visible...
+[2026-05-17T20:10:17.943Z] Email is visible.
+[2026-05-17T20:10:18.979Z] Inputting 123456 into element: Password
+[2026-05-17T20:10:18.982Z] Waiting for Password to be visible...
+[2026-05-17T20:10:18.993Z] Password is visible.
+[2026-05-17T20:10:20.045Z] Clicking element: Login Button
+[2026-05-17T20:10:20.047Z] Waiting for Login Button to be visible...
+[2026-05-17T20:10:20.057Z] Login Button is visible.
+[2026-05-17T20:10:21.172Z] Clicking element: My Account Link
+[2026-05-17T20:10:21.174Z] Waiting for My Account Link to be visible...
+[2026-05-17T20:10:21.190Z] My Account Link is visible.
+[2026-05-17T20:10:21.565Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T20:10:21.565Z] TC03: Leave mandatory Last name empty
+[2026-05-17T20:10:21.565Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T20:10:21.570Z] Inputting Test into element: First name
+[2026-05-17T20:10:21.577Z] Waiting for First name to be visible...
+[2026-05-17T20:10:21.657Z] First name is visible.
+[2026-05-17T20:10:21.675Z] Inputting  into element: Last name
+[2026-05-17T20:10:21.683Z] Waiting for Last name to be visible...
+[2026-05-17T20:10:21.707Z] Last name is visible.
+[2026-05-17T20:10:21.755Z] Inputting testuser@gmail.com into element: Email
+[2026-05-17T20:10:21.763Z] Waiting for Email to be visible...
+[2026-05-17T20:10:21.790Z] Email is visible.
+[2026-05-17T20:10:21.836Z] Clicking element: Save button
+[2026-05-17T20:10:21.847Z] Waiting for Save button to be visible...
+[2026-05-17T20:10:21.868Z] Save button is visible.
+[2026-05-17T20:10:24.267Z] Inputting h@gmail.com into element: Email
+[2026-05-17T20:10:24.270Z] Waiting for Email to be visible...
+[2026-05-17T20:10:24.315Z] Email is visible.
+[2026-05-17T20:10:25.360Z] Inputting 123456 into element: Password
+[2026-05-17T20:10:25.364Z] Waiting for Password to be visible...
+[2026-05-17T20:10:25.370Z] Password is visible.
+[2026-05-17T20:10:26.426Z] Clicking element: Login Button
+[2026-05-17T20:10:26.429Z] Waiting for Login Button to be visible...
+[2026-05-17T20:10:26.438Z] Login Button is visible.

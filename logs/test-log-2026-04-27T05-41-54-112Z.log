@@ -1,0 +1,15 @@
+[2026-04-27T05:42:10.868Z] Inputting h@gmail.com into element: Email
+[2026-04-27T05:42:10.884Z] Waiting for Email to be visible...
+[2026-04-27T05:42:10.998Z] Email is visible.
+[2026-04-27T05:42:13.144Z] Inputting 123456 into element: Password
+[2026-04-27T05:42:13.148Z] Waiting for Password to be visible...
+[2026-04-27T05:42:13.178Z] Password is visible.
+[2026-04-27T05:42:14.370Z] Clicking element: Login Button
+[2026-04-27T05:42:14.374Z] Waiting for Login Button to be visible...
+[2026-04-27T05:42:14.417Z] Login Button is visible.
+[2026-04-27T05:42:15.216Z] ----------------------------------------------------------------------------------------------------
+[2026-04-27T05:42:15.216Z] TC02: Access My Account after logout
+[2026-04-27T05:42:15.216Z] ----------------------------------------------------------------------------------------------------
+[2026-04-27T05:42:15.230Z] Clicking element: Logout Button
+[2026-04-27T05:42:15.237Z] Waiting for Logout Button to be visible...
+[2026-04-27T05:42:15.711Z] Logout Button is visible.

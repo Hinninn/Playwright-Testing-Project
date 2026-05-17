@@ -1,0 +1,12 @@
+[2026-05-15T08:51:35.756Z] ----------------------------------------------------------------------------------------------------
+[2026-05-15T08:51:35.756Z] TC12: password sai
+[2026-05-15T08:51:35.756Z] ----------------------------------------------------------------------------------------------------
+[2026-05-15T08:51:35.760Z] Inputting h@gmail.com into element: Email
+[2026-05-15T08:51:35.763Z] Waiting for Email to be visible...
+[2026-05-15T08:51:35.890Z] Email is visible.
+[2026-05-15T08:51:37.174Z] Inputting wrongpass into element: Password
+[2026-05-15T08:51:37.176Z] Waiting for Password to be visible...
+[2026-05-15T08:51:37.191Z] Password is visible.
+[2026-05-15T08:51:38.256Z] Clicking element: Login Button
+[2026-05-15T08:51:38.259Z] Waiting for Login Button to be visible...
+[2026-05-15T08:51:38.273Z] Login Button is visible.

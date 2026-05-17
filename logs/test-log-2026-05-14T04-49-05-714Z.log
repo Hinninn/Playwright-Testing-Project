@@ -1,0 +1,14 @@
+[2026-05-14T04:49:09.450Z] Inputting h@gmail.com into element: Email
+[2026-05-14T04:49:09.456Z] Waiting for Email to be visible...
+[2026-05-14T04:49:09.569Z] Email is visible.
+[2026-05-14T04:49:10.612Z] Inputting 123456 into element: Password
+[2026-05-14T04:49:10.614Z] Waiting for Password to be visible...
+[2026-05-14T04:49:10.631Z] Password is visible.
+[2026-05-14T04:49:11.709Z] Clicking element: Login Button
+[2026-05-14T04:49:11.712Z] Waiting for Login Button to be visible...
+[2026-05-14T04:49:11.723Z] Login Button is visible.
+[2026-05-14T04:49:12.484Z] ----------------------------------------------------------------------------------------------------
+[2026-05-14T04:49:12.484Z] TC02: Terms of service trên giỏ
+[2026-05-14T04:49:12.484Z] ----------------------------------------------------------------------------------------------------
+[2026-05-14T04:49:12.495Z] Clicking element: Checkout Button
+[2026-05-14T04:49:12.501Z] Waiting for Checkout Button to be visible...

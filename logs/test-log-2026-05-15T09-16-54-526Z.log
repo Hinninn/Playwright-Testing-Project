@@ -1,0 +1,24 @@
+[2026-05-15T09:16:57.326Z] ----------------------------------------------------------------------------------------------------
+[2026-05-15T09:16:57.326Z] TC10: email chỉ có @
+[2026-05-15T09:16:57.326Z] ----------------------------------------------------------------------------------------------------
+[2026-05-15T09:16:57.332Z] Inputting @ into element: Email
+[2026-05-15T09:16:57.334Z] Waiting for Email to be visible...
+[2026-05-15T09:16:57.419Z] Email is visible.
+[2026-05-15T09:16:58.690Z] Inputting 123456 into element: Password
+[2026-05-15T09:16:58.693Z] Waiting for Password to be visible...
+[2026-05-15T09:16:58.706Z] Password is visible.
+[2026-05-15T09:16:59.771Z] Clicking element: Login Button
+[2026-05-15T09:16:59.773Z] Waiting for Login Button to be visible...
+[2026-05-15T09:16:59.781Z] Login Button is visible.
+[2026-05-15T09:17:05.715Z] ----------------------------------------------------------------------------------------------------
+[2026-05-15T09:17:05.715Z] TC11: empty password
+[2026-05-15T09:17:05.715Z] ----------------------------------------------------------------------------------------------------
+[2026-05-15T09:17:05.721Z] Inputting h@gmail.com into element: Email
+[2026-05-15T09:17:05.726Z] Waiting for Email to be visible...
+[2026-05-15T09:17:05.777Z] Email is visible.
+[2026-05-15T09:17:06.819Z] Inputting  into element: Password
+[2026-05-15T09:17:06.821Z] Waiting for Password to be visible...
+[2026-05-15T09:17:06.833Z] Password is visible.
+[2026-05-15T09:17:07.885Z] Clicking element: Login Button
+[2026-05-15T09:17:07.887Z] Waiting for Login Button to be visible...
+[2026-05-15T09:17:07.897Z] Login Button is visible.

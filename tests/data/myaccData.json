@@ -1,0 +1,22 @@
+{
+  "URL": "https://demo.nopcommerce.com/customer/info",
+  "ERROR_MSG": {
+    "updatedSuccess": "The customer info has been updated successfully.",
+    "firstNameRequired": "First name is required",
+    "lastNameRequired": "Last name is required",
+    "emailRequired": "Email is required",
+    "emailTooLong": "Email address is too long",
+    "emailInUse": "The email address is already in use",
+    "validEmail": "Please enter a valid email address"
+  },
+  "VALID": {
+    "FIRST_NAME": "Test",
+    "LAST_NAME": "User",
+    "COMPANY": "Playwright Inc",
+    "EMAIL": "h@gmail.com"
+  },
+  "DUPLICATED": {
+    "EMAIL": "existinguser@gmail.com"
+  },
+  "TITLE": "nopCommerce demo store. Home page title"
+}

@@ -1,0 +1,9 @@
+[2026-05-04T05:33:40.608Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T05:33:40.608Z] TC02: email có khoảng trắng đầu/cuối — trim & thành công
+[2026-05-04T05:33:40.608Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T05:33:40.614Z] Inputting  s@gmail.com  into element: Email
+[2026-05-04T05:33:40.616Z] Waiting for Email to be visible...
+[2026-05-04T05:33:47.036Z] Email is visible.
+[2026-05-04T05:33:47.071Z] Clicking element: Recovery Button
+[2026-05-04T05:33:47.074Z] Waiting for Recovery Button to be visible...
+[2026-05-04T05:33:47.091Z] Recovery Button is visible.

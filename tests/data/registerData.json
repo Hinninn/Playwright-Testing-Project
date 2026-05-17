@@ -1,0 +1,13 @@
+{
+  "URL": "https://demo.nopcommerce.com/register",
+  "SUCCESS_MSG": {
+    "registrationComplete": "Your registration completed"
+  },
+  "VALID": {
+    "FIRST_NAME": "Auto",
+    "LAST_NAME": "Test",
+    "EMAIL": "h@gmail.com",
+    "PASSWORD": "123456"
+  }
+  
+}

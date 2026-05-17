@@ -1,0 +1,27 @@
+[2026-05-04T05:26:00.694Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T05:26:00.694Z] TC04: Input unregistered email
+[2026-05-04T05:26:00.694Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T05:26:00.699Z] Inputting invalid@gmail.com into element: Email
+[2026-05-04T05:26:00.703Z] Waiting for Email to be visible...
+[2026-05-04T05:26:06.792Z] Email is visible.
+[2026-05-04T05:26:06.822Z] Clicking element: Recovery Button
+[2026-05-04T05:26:06.825Z] Waiting for Recovery Button to be visible...
+[2026-05-04T05:26:06.857Z] Recovery Button is visible.
+[2026-05-04T05:26:13.635Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T05:26:13.635Z] TC05: Input empty email
+[2026-05-04T05:26:13.635Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T05:26:13.637Z] Inputting  into element: Email
+[2026-05-04T05:26:13.638Z] Waiting for Email to be visible...
+[2026-05-04T05:26:18.664Z] Email is visible.
+[2026-05-04T05:26:18.686Z] Clicking element: Recovery Button
+[2026-05-04T05:26:18.688Z] Waiting for Recovery Button to be visible...
+[2026-05-04T05:26:18.698Z] Recovery Button is visible.
+[2026-05-04T05:26:25.542Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T05:26:25.542Z] TC06: Input invalid email format
+[2026-05-04T05:26:25.542Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T05:26:25.546Z] Inputting abcgmail.com into element: Email
+[2026-05-04T05:26:25.548Z] Waiting for Email to be visible...
+[2026-05-04T05:26:31.636Z] Email is visible.
+[2026-05-04T05:26:31.662Z] Clicking element: Recovery Button
+[2026-05-04T05:26:31.664Z] Waiting for Recovery Button to be visible...
+[2026-05-04T05:26:31.672Z] Recovery Button is visible.

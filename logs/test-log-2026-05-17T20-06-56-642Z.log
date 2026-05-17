@@ -1,0 +1,27 @@
+[2026-05-17T20:06:59.533Z] Inputting h@gmail.com into element: Email
+[2026-05-17T20:06:59.538Z] Waiting for Email to be visible...
+[2026-05-17T20:06:59.605Z] Email is visible.
+[2026-05-17T20:07:00.637Z] Inputting 123456 into element: Password
+[2026-05-17T20:07:00.640Z] Waiting for Password to be visible...
+[2026-05-17T20:07:00.660Z] Password is visible.
+[2026-05-17T20:07:01.718Z] Clicking element: Login Button
+[2026-05-17T20:07:01.720Z] Waiting for Login Button to be visible...
+[2026-05-17T20:07:01.730Z] Login Button is visible.
+[2026-05-17T20:07:02.594Z] Clicking element: My Account Link
+[2026-05-17T20:07:02.596Z] Waiting for My Account Link to be visible...
+[2026-05-17T20:07:02.609Z] My Account Link is visible.
+[2026-05-17T20:07:03.173Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T20:07:03.173Z] TC01: Update info successfully
+[2026-05-17T20:07:03.173Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T20:07:03.177Z] Inputting Test into element: First name
+[2026-05-17T20:07:03.179Z] Waiting for First name to be visible...
+[2026-05-17T20:07:03.266Z] First name is visible.
+[2026-05-17T20:07:03.300Z] Inputting User into element: Last name
+[2026-05-17T20:07:03.304Z] Waiting for Last name to be visible...
+[2026-05-17T20:07:03.322Z] Last name is visible.
+[2026-05-17T20:07:03.352Z] Inputting testuser@gmail.com into element: Email
+[2026-05-17T20:07:03.357Z] Waiting for Email to be visible...
+[2026-05-17T20:07:03.372Z] Email is visible.
+[2026-05-17T20:07:03.393Z] Inputting Playwright Inc into element: Company
+[2026-05-17T20:07:03.396Z] Waiting for Company to be visible...
+[2026-05-17T20:07:03.422Z] Company is visible.

@@ -1,0 +1,29 @@
+[2026-05-17T08:59:03.230Z] Inputting h@gmail.com into element: Email
+[2026-05-17T08:59:03.245Z] Waiting for Email to be visible...
+[2026-05-17T08:59:04.709Z] Email is visible.
+[2026-05-17T08:59:06.002Z] Inputting 123456 into element: Password
+[2026-05-17T08:59:06.009Z] Waiting for Password to be visible...
+[2026-05-17T08:59:06.034Z] Password is visible.
+[2026-05-17T08:59:07.168Z] Clicking element: Login Button
+[2026-05-17T08:59:07.173Z] Waiting for Login Button to be visible...
+[2026-05-17T08:59:07.213Z] Login Button is visible.
+[2026-05-17T08:59:08.919Z] Clicking element: Add first product to cart
+[2026-05-17T08:59:08.925Z] Waiting for Add first product to cart to be visible...
+[2026-05-17T08:59:09.991Z] Add first product to cart is visible.
+[2026-05-17T08:59:12.353Z] Clicking element: Agree to terms checkbox
+[2026-05-17T08:59:12.411Z] Waiting for Agree to terms checkbox to be visible...
+[2026-05-17T08:59:12.445Z] Agree to terms checkbox is visible.
+[2026-05-17T08:59:12.601Z] Clicking element: Checkout Button
+[2026-05-17T08:59:12.609Z] Waiting for Checkout Button to be visible...
+[2026-05-17T08:59:12.661Z] Checkout Button is visible.
+[2026-05-17T08:59:13.793Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T08:59:13.793Z] Checkout-001: Checkout successfully
+[2026-05-17T08:59:13.793Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T08:59:13.817Z] Filling Billing Address
+[2026-05-17T08:59:22.854Z] Clicking Billing Continue Button
+[2026-05-17T08:59:22.869Z] Clicking element: Billing Continue Button
+[2026-05-17T08:59:22.884Z] Waiting for Billing Continue Button to be visible...
+[2026-05-17T08:59:22.977Z] Billing Continue Button is visible.
+[2026-05-17T08:59:24.246Z] Clicking Shipping Continue Button
+[2026-05-17T08:59:24.252Z] Clicking element: Shipping Continue Button
+[2026-05-17T08:59:24.255Z] Waiting for Shipping Continue Button to be visible...

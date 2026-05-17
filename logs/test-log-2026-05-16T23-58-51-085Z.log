@@ -1,0 +1,12 @@
+[2026-05-16T23:58:53.615Z] ----------------------------------------------------------------------------------------------------
+[2026-05-16T23:58:53.615Z] TC010: Email containing only @ characters
+[2026-05-16T23:58:53.615Z] ----------------------------------------------------------------------------------------------------
+[2026-05-16T23:58:53.620Z] Inputting @ into element: Email
+[2026-05-16T23:58:53.624Z] Waiting for Email to be visible...
+[2026-05-16T23:58:53.710Z] Email is visible.
+[2026-05-16T23:58:54.752Z] Inputting 123456 into element: Password
+[2026-05-16T23:58:54.755Z] Waiting for Password to be visible...
+[2026-05-16T23:58:54.771Z] Password is visible.
+[2026-05-16T23:58:55.835Z] Clicking element: Login Button
+[2026-05-16T23:58:55.838Z] Waiting for Login Button to be visible...
+[2026-05-16T23:58:55.850Z] Login Button is visible.

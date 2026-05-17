@@ -1,0 +1,9 @@
+[2026-05-04T04:55:51.885Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T04:55:51.885Z] TC04: Input unregistered email
+[2026-05-04T04:55:51.885Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T04:55:51.889Z] Inputting invalid@gmail.com into element: Email
+[2026-05-04T04:55:51.890Z] Waiting for Email to be visible...
+[2026-05-04T04:55:58.958Z] Email is visible.
+[2026-05-04T04:55:58.983Z] Clicking element: Recovery Button
+[2026-05-04T04:55:58.985Z] Waiting for Recovery Button to be visible...
+[2026-05-04T04:55:58.999Z] Recovery Button is visible.

@@ -1,0 +1,9 @@
+[2026-05-11T09:56:02.619Z] ----------------------------------------------------------------------------------------------------
+[2026-05-11T09:56:02.619Z] TC07: email có khoảng trắng ở giữa chuỗi
+[2026-05-11T09:56:02.619Z] ----------------------------------------------------------------------------------------------------
+[2026-05-11T09:56:02.623Z] Inputting abc @gmail.com into element: Email
+[2026-05-11T09:56:02.625Z] Waiting for Email to be visible...
+[2026-05-11T09:56:02.706Z] Email is visible.
+[2026-05-11T09:56:02.736Z] Clicking element: Recovery Button
+[2026-05-11T09:56:02.740Z] Waiting for Recovery Button to be visible...
+[2026-05-11T09:56:02.767Z] Recovery Button is visible.

@@ -1,0 +1,18 @@
+{
+  "URL": "https://demo.nopcommerce.com/passwordrecovery",
+  "MSG": {
+    "instructionsSent": "Email with instructions has been sent to you.",
+    "emailNotFound": "Email not found.",
+    "enterEmail": "Enter your email",
+    "validEmail": "Please enter a valid email address."
+  },
+  "VALID": {
+    "EMAIL": "h@gmail.com"
+  },
+  "INVALID": {
+    "EMAIL": "invalid@gmail.com",
+    "EMAIL_MISSING_AT": "abcgmail.com",
+    "EMAIL_WITH_SPACE": "abc @gmail.com"
+  },
+  "TITLE": "nopCommerce demo store. Password Recovery"
+}

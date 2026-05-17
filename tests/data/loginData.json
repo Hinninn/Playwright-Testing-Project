@@ -1,0 +1,28 @@
+{
+  "URL": "https://demo.nopcommerce.com/login",
+  "ERROR_MSG": {
+    "emptyEmail": "Please enter your email",
+    "invalidEmailFormat": "Please enter a valid email address.",
+    "loginUnsuccessful": "Login was unsuccessful. Please correct the errors and try again.No customer account found",
+    "wrongPassword": "Login was unsuccessful. Please correct the errors and try again.The credentials provided are incorrect",
+    "emptyPassword": "Please enter the password.",
+    "emailMaxLength": "Email must not exceed the maximum length",
+    "passwordMaxLength": "Password must not exceed the maximum length",
+    "accountLocked": "Your account has been locked. Please contact the administrator."
+  },
+  "VALID": {
+    "EMAIL": "h@gmail.com",
+    "PASSWORD": "123456"
+  },
+  "INVALID": {
+    "EMAIL": "invalid@gmail.com",
+    "PASSWORD": "123",
+    "EMAIL_MISSING_AT": "abcgmail.com",
+    "EMAIL_WITH_SPACE": "abc @gmail.com",
+    "EMAIL_WITH_SPECIAL_CHAR": "abc#@gmail.com",
+    "EMAIL_ONLY_AT": "@",
+    "LONG_EMAIL": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa@gmail.com",
+    "LONG_PASSWORD": "pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp"
+  },
+  "TITLE": "nopCommerce demo store. Home page title"
+}

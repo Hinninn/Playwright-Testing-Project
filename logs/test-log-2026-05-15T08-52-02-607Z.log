@@ -1,0 +1,39 @@
+[2026-05-15T08:52:04.856Z] Inputting h@gmail.com into element: Email
+[2026-05-15T08:52:04.863Z] Waiting for Email to be visible...
+[2026-05-15T08:52:05.186Z] Email is visible.
+[2026-05-15T08:52:05.298Z] Inputting 123456 into element: Password
+[2026-05-15T08:52:05.300Z] Waiting for Password to be visible...
+[2026-05-15T08:52:05.320Z] Password is visible.
+[2026-05-15T08:52:12.343Z] Inputting h@gmail.com into element: Email
+[2026-05-15T08:52:12.346Z] Waiting for Email to be visible...
+[2026-05-15T08:52:12.396Z] Email is visible.
+[2026-05-15T08:52:12.428Z] Inputting 123456 into element: Password
+[2026-05-15T08:52:12.434Z] Waiting for Password to be visible...
+[2026-05-15T08:52:12.454Z] Password is visible.
+[2026-05-15T08:52:12.793Z] Clicking element: Login Button
+[2026-05-15T08:52:12.796Z] Waiting for Login Button to be visible...
+[2026-05-15T08:52:12.813Z] Login Button is visible.
+[2026-05-15T08:52:15.850Z] Inputting h@gmail.com into element: Email
+[2026-05-15T08:52:15.854Z] Waiting for Email to be visible...
+[2026-05-15T08:52:15.922Z] Email is visible.
+[2026-05-15T08:52:16.970Z] Inputting 123456 into element: Password
+[2026-05-15T08:52:16.973Z] Waiting for Password to be visible...
+[2026-05-15T08:52:16.987Z] Password is visible.
+[2026-05-15T08:52:18.064Z] Clicking element: Login Button
+[2026-05-15T08:52:18.066Z] Waiting for Login Button to be visible...
+[2026-05-15T08:52:18.079Z] Login Button is visible.
+[2026-05-15T08:52:21.224Z] ----------------------------------------------------------------------------------------------------
+[2026-05-15T08:52:21.224Z] TC18: empty cả 2 field
+[2026-05-15T08:52:21.224Z] ----------------------------------------------------------------------------------------------------
+[2026-05-15T08:52:21.234Z] Inputting  into element: Email
+[2026-05-15T08:52:21.241Z] Waiting for Email to be visible...
+[2026-05-15T08:52:21.320Z] Email is visible.
+[2026-05-15T08:52:22.364Z] Inputting  into element: Password
+[2026-05-15T08:52:22.367Z] Waiting for Password to be visible...
+[2026-05-15T08:52:22.381Z] Password is visible.
+[2026-05-15T08:52:23.426Z] Clicking element: Login Button
+[2026-05-15T08:52:23.429Z] Waiting for Login Button to be visible...
+[2026-05-15T08:52:23.441Z] Login Button is visible.
+[2026-05-15T08:52:29.216Z] Inputting 123456 into element: Password
+[2026-05-15T08:52:29.223Z] Waiting for Password to be visible...
+[2026-05-15T08:52:29.296Z] Password is visible.

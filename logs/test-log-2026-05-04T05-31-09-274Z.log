@@ -1,0 +1,18 @@
+[2026-05-04T05:31:11.371Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T05:31:11.371Z] TC07: email có khoảng trắng ở giữa chuỗi
+[2026-05-04T05:31:11.371Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T05:31:11.379Z] Inputting abc @gmail.com into element: Email
+[2026-05-04T05:31:11.382Z] Waiting for Email to be visible...
+[2026-05-04T05:31:18.482Z] Email is visible.
+[2026-05-04T05:31:18.671Z] Clicking element: Recovery Button
+[2026-05-04T05:31:18.675Z] Waiting for Recovery Button to be visible...
+[2026-05-04T05:31:18.693Z] Recovery Button is visible.
+[2026-05-04T05:31:25.369Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T05:31:25.369Z] TC08: từ Login mở trang Forgot password
+[2026-05-04T05:31:25.369Z] ----------------------------------------------------------------------------------------------------
+[2026-05-04T05:31:25.662Z] Clicking element: Login Link
+[2026-05-04T05:31:25.665Z] Waiting for Login Link to be visible...
+[2026-05-04T05:31:30.670Z] Login Link is visible.
+[2026-05-04T05:31:31.077Z] Clicking element: Forgot Password Link
+[2026-05-04T05:31:31.079Z] Waiting for Forgot Password Link to be visible...
+[2026-05-04T05:31:31.148Z] Forgot Password Link is visible.

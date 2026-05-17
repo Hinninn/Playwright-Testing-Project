@@ -1,0 +1,9 @@
+[2026-05-17T00:06:26.708Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T00:06:26.708Z] TC03: Input email uppercase/lowercase
+[2026-05-17T00:06:26.708Z] ----------------------------------------------------------------------------------------------------
+[2026-05-17T00:06:26.726Z] Inputting S@GMAIL.COM into element: Email
+[2026-05-17T00:06:26.740Z] Waiting for Email to be visible...
+[2026-05-17T00:06:26.941Z] Email is visible.
+[2026-05-17T00:06:27.004Z] Clicking element: Recovery Button
+[2026-05-17T00:06:27.012Z] Waiting for Recovery Button to be visible...
+[2026-05-17T00:06:27.041Z] Recovery Button is visible.

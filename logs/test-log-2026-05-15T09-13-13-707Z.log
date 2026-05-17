@@ -1,0 +1,12 @@
+[2026-05-15T09:13:16.583Z] ----------------------------------------------------------------------------------------------------
+[2026-05-15T09:13:16.583Z] TC09: email có ký tự đặc biệt
+[2026-05-15T09:13:16.583Z] ----------------------------------------------------------------------------------------------------
+[2026-05-15T09:13:16.586Z] Inputting abc#@gmail.com into element: Email
+[2026-05-15T09:13:16.591Z] Waiting for Email to be visible...
+[2026-05-15T09:13:16.702Z] Email is visible.
+[2026-05-15T09:13:17.885Z] Inputting 123456 into element: Password
+[2026-05-15T09:13:17.887Z] Waiting for Password to be visible...
+[2026-05-15T09:13:17.903Z] Password is visible.
+[2026-05-15T09:13:18.967Z] Clicking element: Login Button
+[2026-05-15T09:13:18.970Z] Waiting for Login Button to be visible...
+[2026-05-15T09:13:18.980Z] Login Button is visible.
