@@ -60,13 +60,15 @@ export default defineConfig({
   },
 
   testMatch: [
-    // 'specs/00_register.spec.ts',
-    'specs/01_login.spec.ts',
-    // 'specs/02_logout.spec.ts',
-    // 'specs/03_forgotpw.spec.ts',
-    // 'specs/04_myacc.spec.ts',
-    // 'specs/05_cart.spec.ts',
-      // 'specs/06_checkout.spec.ts',
+    // 'specs/01_register.spec.ts',
+    // 'specs/02_login.spec.ts',
+    // 'specs/03_logout.spec.ts',
+    // 'specs/04_forgotpw.spec.ts',
+    // 'specs/05_myacc.spec.ts',
+    // 'specs/06_cart.spec.ts',
+    // 'specs/07_checkout.spec.ts',
+    // 'specs/08_product_detail.spec.ts',
+    'specs/09_wishlist.spec.ts',
   ],
   /* Configure projects for major browsers */
   projects: [
@@ -77,10 +79,10 @@ export default defineConfig({
 {
       name: 'chromium',
       use: {
-        ...devices['Desktop Chrome'], // Viewport/userAgent mặc định Chrome desktop
+        ...devices['Desktop Chrome'], 
         launchOptions: {
           args: [
-            '--start-maximized', // Cửa sổ tối đa (headed)
+            '--start-maximized', 
             '--disable-blink-features=AutomationControlled', // Giảm cờ automation một phần
             '--disable-dev-shm-usage', // Tránh hết shared memory trên Linux/CI
           ],
@@ -91,7 +93,6 @@ export default defineConfig({
       // {
       //   headless: false,
       //   launchOptions:{
-      //      slowMo: 1000, // thêm dòng này
       //     args:['--start-maximized'],
 
       //   },

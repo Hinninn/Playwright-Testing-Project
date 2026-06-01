@@ -1,0 +1,17 @@
+{
+  "URLS": {
+    "APPLE_ICAM": "https://demo.nopcommerce.com/apple-icam",
+    "GIFT_CARD": "https://demo.nopcommerce.com/100-physical-gift-card"
+  },
+  "SUCCESS_MSG": {
+    "addToCart": "The product has been added to your shopping cart",
+    "addToWishlist": "The product has been added to your wishlist"
+  },
+  "GIFT_CARD": {
+      "RECIPIENT_NAME": "hi",
+      "YOUR_NAME": "one"
+    },
+   "QUANTITY": {
+    "VALID": "2"
+  }
+}

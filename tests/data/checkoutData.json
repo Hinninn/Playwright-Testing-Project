@@ -1,4 +1,4 @@
-        {
+{
     "URL": "https://demo.nopcommerce.com/onepagecheckout",
     "ERROR_MSG": {
         "firstNameRequired": "First name is required",
@@ -17,9 +17,9 @@
     },
 
     "VALID": {
-        "FIRST_NAME": "John",
-        "LAST_NAME": "Doe",
-        "EMAIL": "john.doe@example.com",
+        "FIRST_NAME": "huyen",
+        "LAST_NAME": "nguyen",
+        "EMAIL": "huyen@gmail.com",
         "COUNTRY": "United States of America",
         "STATE": "New York",
         "CITY": "New York",
@@ -28,20 +28,20 @@
         "PHONE": "123-456-7890"
     },
     "INVALID": {
-    "FIRST_NAME_SPACE": " ",
-    "LAST_NAME_SPACE": " ",
-    "EMAIL_SPACE": " ",
-    "EMAIL_FORMAT": "abcgmail.com",
-    "CITY_SPACE": " ",
-    "ADDRESS1_SPACE": " ",
-    "ZIP_ALPHA": "abc",
-    "ZIP_SPECIAL": "*&^",
-    "ZIP_SPACE": " ",
-    "PHONE_ALPHA": "abcdef",
-    "PHONE_SPECIAL": "!@#$%",
-    "PHONE_SHORT": "12",
-    "PHONE_LONG": "0123456789123456",
-    "PHONE_SPACE": " "
+        "FIRST_NAME_SPACE": " ",
+        "LAST_NAME_SPACE": " ",
+        "EMAIL_SPACE": " ",
+        "EMAIL_FORMAT": "abcgmail.com",
+        "CITY_SPACE": " ",
+        "ADDRESS1_SPACE": " ",
+        "ZIP_ALPHA": "abc",
+        "ZIP_SPECIAL": "*&^",
+        "ZIP_SPACE": " ",
+        "PHONE_ALPHA": "abcdef",
+        "PHONE_SPECIAL": "!@#$%",
+        "PHONE_SHORT": "12",
+        "PHONE_LONG": "0123456789123456",
+        "PHONE_SPACE": " "
     },
     "TITLE": "nopCommerce demo store. Checkout"
     }

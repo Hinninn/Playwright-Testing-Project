@@ -3,8 +3,8 @@ import { BasePage } from "./BasePage";
 
 export class MyaccPage extends BasePage {
   private myaccLink = this.page.locator("//a[contains(@class,'ico-account')]");
-  private maleRadio = this.page.locator("//input[@id='gender-male']");
-  private femaleRadio = this.page.locator("//input[@id='gender-female']");
+  // private maleRadio = this.page.locator("//input[@id='gender-male']");
+  // private femaleRadio = this.page.locator("//input[@id='gender-female']");
   private firstNameInput = this.page.locator("//input[@id='FirstName']");
   private lastNameInput = this.page.locator("//input[@id='LastName']");
   private emailInput = this.page.locator("//input[@id='Email']");
@@ -60,23 +60,20 @@ export class MyaccPage extends BasePage {
   }
 
   async getFieldError(): Promise<string> {
-    const candidates = [
-      this.fieldValidationError,
-      this.validationSummaryItems,
-      this.messageError,
-    ];
-    for (const locator of candidates) {
-      const count = await locator.count();
-      for (let i = 0; i < count; i++) {
-        const item = locator.nth(i);
-        if (await item.isVisible({ timeout: 3000 }).catch(() => false)) {
-          const text = (await item.textContent())?.trim();
-          if (text) {
-            return text;
-          }
-        }
-      }
+
+    if (await this.fieldValidationError.first().isVisible()) {
+        return (await this.fieldValidationError.first().textContent())?.trim() || '';
     }
+
+    if (await this.validationSummaryItems.first().isVisible()) {
+        return (await this.validationSummaryItems.first().textContent())?.trim() || '';
+    }
+
+    if (await this.messageError.first().isVisible()) {
+        return (await this.messageError.first().textContent())?.trim() || '';
+    }
+
     return '';
   }
 }
+

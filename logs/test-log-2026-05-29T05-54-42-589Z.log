@@ -1,0 +1,12 @@
+[2026-05-29T05:54:44.414Z] ----------------------------------------------------------------------------------------------------
+[2026-05-29T05:54:44.414Z] TC34: Open cart and proceed to checkout after adding book
+[2026-05-29T05:54:44.414Z] ----------------------------------------------------------------------------------------------------
+[2026-05-29T05:54:45.576Z] Clicking element: Add first product to cart
+[2026-05-29T05:54:45.583Z] Waiting for Add first product to cart to be visible...
+[2026-05-29T05:54:45.752Z] Add first product to cart is visible.
+[2026-05-29T05:54:47.963Z] Clicking element: Agree to terms checkbox
+[2026-05-29T05:54:47.968Z] Waiting for Agree to terms checkbox to be visible...
+[2026-05-29T05:54:48.045Z] Agree to terms checkbox is visible.
+[2026-05-29T05:54:48.155Z] Clicking element: Checkout Button
+[2026-05-29T05:54:48.160Z] Waiting for Checkout Button to be visible...
+[2026-05-29T05:54:48.174Z] Checkout Button is visible.

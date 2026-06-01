@@ -1,0 +1,33 @@
+[2026-05-20T07:55:31.984Z] Inputting h@gmail.com into element: Email
+[2026-05-20T07:55:31.988Z] Waiting for Email to be visible...
+[2026-05-20T07:55:32.086Z] Email is visible.
+[2026-05-20T07:55:33.192Z] Inputting 123456 into element: Password
+[2026-05-20T07:55:33.196Z] Waiting for Password to be visible...
+[2026-05-20T07:55:33.213Z] Password is visible.
+[2026-05-20T07:55:34.290Z] Clicking element: Login Button
+[2026-05-20T07:55:34.292Z] Waiting for Login Button to be visible...
+[2026-05-20T07:55:34.302Z] Login Button is visible.
+[2026-05-20T07:55:36.188Z] Clicking element: Add first product to cart
+[2026-05-20T07:55:36.196Z] Waiting for Add first product to cart to be visible...
+[2026-05-20T07:55:36.443Z] Add first product to cart is visible.
+[2026-05-20T07:55:38.116Z] Clicking element: Agree to terms checkbox
+[2026-05-20T07:55:38.119Z] Waiting for Agree to terms checkbox to be visible...
+[2026-05-20T07:55:38.185Z] Agree to terms checkbox is visible.
+[2026-05-20T07:55:38.273Z] Clicking element: Checkout Button
+[2026-05-20T07:55:38.279Z] Waiting for Checkout Button to be visible...
+[2026-05-20T07:55:38.301Z] Checkout Button is visible.
+[2026-05-20T07:55:39.219Z] ----------------------------------------------------------------------------------------------------
+[2026-05-20T07:55:39.219Z] Checkout-004: Leave Last name empty
+[2026-05-20T07:55:39.219Z] ----------------------------------------------------------------------------------------------------
+[2026-05-20T07:55:39.225Z] Inputting John into element: First Name
+[2026-05-20T07:55:39.229Z] Waiting for First Name to be visible...
+[2026-05-20T07:55:39.659Z] First Name is visible.
+[2026-05-20T07:55:39.724Z] Inputting   into element: Last Name
+[2026-05-20T07:55:39.732Z] Waiting for Last Name to be visible...
+[2026-05-20T07:55:39.749Z] Last Name is visible.
+[2026-05-20T07:55:39.805Z] Inputting john.doe@example.com into element: Email
+[2026-05-20T07:55:39.811Z] Waiting for Email to be visible...
+[2026-05-20T07:55:39.836Z] Email is visible.
+[2026-05-20T07:55:39.872Z] Inputting  into element: Company
+[2026-05-20T07:55:39.875Z] Waiting for Company to be visible...
+[2026-05-20T07:55:39.894Z] Company is visible.

@@ -1,7 +1,9 @@
 {
   "URL": "https://demo.nopcommerce.com/passwordrecovery",
-  "MSG": {
-    "instructionsSent": "Email with instructions has been sent to you.",
+  "SUCCESS_MSG": {
+    "instructionsSent": "Email with instructions has been sent to you."
+  },
+  "ERROR_MSG": {
     "emailNotFound": "Email not found.",
     "enterEmail": "Enter your email",
     "validEmail": "Please enter a valid email address."

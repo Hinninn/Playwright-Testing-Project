@@ -1,0 +1,26 @@
+[2026-05-18T00:00:22.086Z] Inputting h@gmail.com into element: Email
+[2026-05-18T00:00:22.091Z] Waiting for Email to be visible...
+[2026-05-18T00:00:22.220Z] Email is visible.
+[2026-05-18T00:00:23.586Z] Inputting 123456 into element: Password
+[2026-05-18T00:00:23.587Z] Waiting for Password to be visible...
+[2026-05-18T00:00:23.597Z] Password is visible.
+[2026-05-18T00:00:24.656Z] Clicking element: Login Button
+[2026-05-18T00:00:24.658Z] Waiting for Login Button to be visible...
+[2026-05-18T00:00:24.672Z] Login Button is visible.
+[2026-05-18T00:00:26.400Z] Clicking element: Add first product to cart
+[2026-05-18T00:00:26.404Z] Waiting for Add first product to cart to be visible...
+[2026-05-18T00:00:26.509Z] Add first product to cart is visible.
+[2026-05-18T00:00:27.832Z] Clicking element: Agree to terms checkbox
+[2026-05-18T00:00:27.834Z] Waiting for Agree to terms checkbox to be visible...
+[2026-05-18T00:00:27.843Z] Agree to terms checkbox is visible.
+[2026-05-18T00:00:27.918Z] Clicking element: Checkout Button
+[2026-05-18T00:00:27.920Z] Waiting for Checkout Button to be visible...
+[2026-05-18T00:00:27.935Z] Checkout Button is visible.
+[2026-05-18T00:00:28.748Z] ----------------------------------------------------------------------------------------------------
+[2026-05-18T00:00:28.748Z] Checkout-016: Input invalid phone length long
+[2026-05-18T00:00:28.748Z] ----------------------------------------------------------------------------------------------------
+[2026-05-18T00:00:28.752Z] Filling Billing Address
+[2026-05-18T00:00:34.480Z] Clicking Billing Continue Button
+[2026-05-18T00:00:34.485Z] Clicking element: Billing Continue Button
+[2026-05-18T00:00:34.487Z] Waiting for Billing Continue Button to be visible...
+[2026-05-18T00:00:34.505Z] Billing Continue Button is visible.

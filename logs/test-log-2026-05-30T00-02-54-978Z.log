@@ -1,0 +1,12 @@
+[2026-05-30T00:02:56.361Z] ----------------------------------------------------------------------------------------------------
+[2026-05-30T00:02:56.361Z] TC35: Change quantity then add product to cart
+[2026-05-30T00:02:56.361Z] ----------------------------------------------------------------------------------------------------
+[2026-05-30T00:02:58.474Z] Clicking element: Add to Cart Button
+[2026-05-30T00:02:58.476Z] Waiting for Add to Cart Button to be visible...
+[2026-05-30T00:02:58.539Z] Add to Cart Button is visible.
+[2026-05-30T00:03:00.338Z] Clicking element: Agree to terms checkbox
+[2026-05-30T00:03:00.341Z] Waiting for Agree to terms checkbox to be visible...
+[2026-05-30T00:03:00.354Z] Agree to terms checkbox is visible.
+[2026-05-30T00:03:00.435Z] Clicking element: Checkout Button
+[2026-05-30T00:03:00.438Z] Waiting for Checkout Button to be visible...
+[2026-05-30T00:03:00.455Z] Checkout Button is visible.

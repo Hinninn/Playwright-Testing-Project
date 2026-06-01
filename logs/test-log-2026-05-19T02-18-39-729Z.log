@@ -1,0 +1,12 @@
+[2026-05-19T02:18:48.696Z] ----------------------------------------------------------------------------------------------------
+[2026-05-19T02:18:48.696Z] TC008: Input email exceeding maximum length
+[2026-05-19T02:18:48.696Z] ----------------------------------------------------------------------------------------------------
+[2026-05-19T02:18:48.710Z] Inputting aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa@gmail.com into element: Email
+[2026-05-19T02:18:48.722Z] Waiting for Email to be visible...
+[2026-05-19T02:18:49.105Z] Email is visible.
+[2026-05-19T02:18:50.220Z] Inputting 123456 into element: Password
+[2026-05-19T02:18:50.223Z] Waiting for Password to be visible...
+[2026-05-19T02:18:50.250Z] Password is visible.
+[2026-05-19T02:18:52.662Z] Clicking element: Login Button
+[2026-05-19T02:18:52.666Z] Waiting for Login Button to be visible...
+[2026-05-19T02:18:52.691Z] Login Button is visible.

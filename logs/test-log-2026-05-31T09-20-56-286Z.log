@@ -1,0 +1,24 @@
+[2026-05-31T09:20:58.400Z] ----------------------------------------------------------------------------------------------------
+[2026-05-31T09:20:58.400Z] TC35: Change quantity then add product to cart
+[2026-05-31T09:20:58.400Z] ----------------------------------------------------------------------------------------------------
+[2026-05-31T09:20:59.698Z] Clicking element: Add to Cart Button
+[2026-05-31T09:20:59.702Z] Waiting for Add to Cart Button to be visible...
+[2026-05-31T09:20:59.796Z] Add to Cart Button is visible.
+[2026-05-31T09:21:02.121Z] ----------------------------------------------------------------------------------------------------
+[2026-05-31T09:21:02.121Z] TC36: Fill gift card information then add product to cart
+[2026-05-31T09:21:02.121Z] ----------------------------------------------------------------------------------------------------
+[2026-05-31T09:21:03.564Z] Inputting hi into element: Recipient Name
+[2026-05-31T09:21:03.569Z] Waiting for Recipient Name to be visible...
+[2026-05-31T09:21:03.644Z] Recipient Name is visible.
+[2026-05-31T09:21:03.673Z] Inputting one into element: Sender Name
+[2026-05-31T09:21:03.676Z] Waiting for Sender Name to be visible...
+[2026-05-31T09:21:03.687Z] Sender Name is visible.
+[2026-05-31T09:21:03.716Z] Clicking element: Add to Cart Button
+[2026-05-31T09:21:03.718Z] Waiting for Add to Cart Button to be visible...
+[2026-05-31T09:21:03.734Z] Add to Cart Button is visible.
+[2026-05-31T09:21:05.781Z] ----------------------------------------------------------------------------------------------------
+[2026-05-31T09:21:05.781Z] TC37: Add product to Wishlist from Product Detail page
+[2026-05-31T09:21:05.781Z] ----------------------------------------------------------------------------------------------------
+[2026-05-31T09:21:07.200Z] Clicking element: Add to Wishlist Button
+[2026-05-31T09:21:07.204Z] Waiting for Add to Wishlist Button to be visible...
+[2026-05-31T09:21:07.275Z] Add to Wishlist Button is visible.

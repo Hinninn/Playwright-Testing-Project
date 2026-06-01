@@ -1,0 +1,15 @@
+[2026-06-01T09:20:45.545Z] Inputting h@gmail.com into element: Email
+[2026-06-01T09:20:45.548Z] Waiting for Email to be visible...
+[2026-06-01T09:20:45.673Z] Email is visible.
+[2026-06-01T09:20:46.739Z] Inputting 123456 into element: Password
+[2026-06-01T09:20:46.742Z] Waiting for Password to be visible...
+[2026-06-01T09:20:46.768Z] Password is visible.
+[2026-06-01T09:20:47.853Z] Clicking element: Login Button
+[2026-06-01T09:20:47.855Z] Waiting for Login Button to be visible...
+[2026-06-01T09:20:47.866Z] Login Button is visible.
+[2026-06-01T09:20:48.812Z] ----------------------------------------------------------------------------------------------------
+[2026-06-01T09:20:48.812Z] TC42: Access Wishlist without login
+[2026-06-01T09:20:48.812Z] ----------------------------------------------------------------------------------------------------
+[2026-06-01T09:20:48.816Z] Clicking element: Logout Button
+[2026-06-01T09:20:48.818Z] Waiting for Logout Button to be visible...
+[2026-06-01T09:20:48.935Z] Logout Button is visible.

@@ -1,0 +1,23 @@
+[2026-05-20T10:04:56.747Z] Inputting h@gmail.com into element: Email
+[2026-05-20T10:04:56.754Z] Waiting for Email to be visible...
+[2026-05-20T10:04:56.861Z] Email is visible.
+[2026-05-20T10:04:58.222Z] Inputting 123456 into element: Password
+[2026-05-20T10:04:58.224Z] Waiting for Password to be visible...
+[2026-05-20T10:04:58.239Z] Password is visible.
+[2026-05-20T10:04:59.300Z] Clicking element: Login Button
+[2026-05-20T10:04:59.303Z] Waiting for Login Button to be visible...
+[2026-05-20T10:04:59.316Z] Login Button is visible.
+[2026-05-20T10:05:00.953Z] Clicking element: Add first product to cart
+[2026-05-20T10:05:00.960Z] Waiting for Add first product to cart to be visible...
+[2026-05-20T10:05:01.125Z] Add first product to cart is visible.
+[2026-05-20T10:05:02.591Z] Clicking element: Agree to terms checkbox
+[2026-05-20T10:05:02.594Z] Waiting for Agree to terms checkbox to be visible...
+[2026-05-20T10:05:02.608Z] Agree to terms checkbox is visible.
+[2026-05-20T10:05:02.679Z] Clicking element: Checkout Button
+[2026-05-20T10:05:02.685Z] Waiting for Checkout Button to be visible...
+[2026-05-20T10:05:02.700Z] Checkout Button is visible.
+[2026-05-20T10:05:03.819Z] ----------------------------------------------------------------------------------------------------
+[2026-05-20T10:05:03.819Z] Checkout-014: Input special characters in Phone
+[2026-05-20T10:05:03.819Z] ----------------------------------------------------------------------------------------------------
+[2026-05-20T10:05:03.824Z] Inputting John into element: First Name
+[2026-05-20T10:05:03.826Z] Waiting for First Name to be visible...

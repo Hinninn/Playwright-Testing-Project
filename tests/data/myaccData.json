@@ -1,7 +1,9 @@
 {
   "URL": "https://demo.nopcommerce.com/customer/info",
+  "SUCCESS_MSG": {
+    "updatedSuccess": "The customer info has been updated successfully."
+  },
   "ERROR_MSG": {
-    "updatedSuccess": "The customer info has been updated successfully.",
     "firstNameRequired": "First name is required",
     "lastNameRequired": "Last name is required",
     "emailRequired": "Email is required",
@@ -17,6 +19,10 @@
   },
   "DUPLICATED": {
     "EMAIL": "existinguser@gmail.com"
+  },
+  "INVALID": {
+    "LONG_EMAIL": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@y.com",
+    "EMAIL_WITH_HASH": "abc#@gmail.com"
   },
   "TITLE": "nopCommerce demo store. Home page title"
 }

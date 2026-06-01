@@ -1,0 +1,21 @@
+[2026-05-29T05:54:04.378Z] ----------------------------------------------------------------------------------------------------
+[2026-05-29T05:54:04.378Z] TC001: Register successfully with required fields only
+[2026-05-29T05:54:04.378Z] ----------------------------------------------------------------------------------------------------
+[2026-05-29T05:54:04.384Z] Inputting Auto into element: First name
+[2026-05-29T05:54:04.392Z] Waiting for First name to be visible...
+[2026-05-29T05:54:04.677Z] First name is visible.
+[2026-05-29T05:54:05.112Z] Inputting Test into element: Last name
+[2026-05-29T05:54:05.118Z] Waiting for Last name to be visible...
+[2026-05-29T05:54:05.159Z] Last name is visible.
+[2026-05-29T05:54:05.244Z] Inputting h@gmail.com into element: Email
+[2026-05-29T05:54:05.247Z] Waiting for Email to be visible...
+[2026-05-29T05:54:05.274Z] Email is visible.
+[2026-05-29T05:54:05.325Z] Inputting 123456 into element: Password
+[2026-05-29T05:54:05.333Z] Waiting for Password to be visible...
+[2026-05-29T05:54:05.361Z] Password is visible.
+[2026-05-29T05:54:05.401Z] Inputting 123456 into element: Confirm Password
+[2026-05-29T05:54:05.406Z] Waiting for Confirm Password to be visible...
+[2026-05-29T05:54:05.438Z] Confirm Password is visible.
+[2026-05-29T05:54:05.484Z] Clicking element: Register button
+[2026-05-29T05:54:05.489Z] Waiting for Register button to be visible...
+[2026-05-29T05:54:05.548Z] Register button is visible.

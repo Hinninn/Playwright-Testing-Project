@@ -1,7 +1,5 @@
 import { expect, Page } from "@playwright/test";
 import { BasePage } from "./BasePage";
-// đầu tiên tạo class ForgotpwPage kế thừa từ BasePage
-// sau đó định nghĩa các selector và method cần thiết cho trang Forgot Password
 export class ForgotpwPage extends BasePage {
   // selectors
   private emailInput = this.page.locator("//input[@name='Email']");

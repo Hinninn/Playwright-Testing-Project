@@ -1,0 +1,23 @@
+[2026-05-20T07:31:15.252Z] Inputting h@gmail.com into element: Email
+[2026-05-20T07:31:15.262Z] Waiting for Email to be visible...
+[2026-05-20T07:31:16.460Z] Email is visible.
+[2026-05-20T07:31:17.910Z] Inputting 123456 into element: Password
+[2026-05-20T07:31:17.913Z] Waiting for Password to be visible...
+[2026-05-20T07:31:17.933Z] Password is visible.
+[2026-05-20T07:31:19.052Z] Clicking element: Login Button
+[2026-05-20T07:31:19.056Z] Waiting for Login Button to be visible...
+[2026-05-20T07:31:19.083Z] Login Button is visible.
+[2026-05-20T07:31:20.557Z] Clicking element: Add first product to cart
+[2026-05-20T07:31:20.562Z] Waiting for Add first product to cart to be visible...
+[2026-05-20T07:31:21.375Z] Add first product to cart is visible.
+[2026-05-20T07:31:23.452Z] Clicking element: Agree to terms checkbox
+[2026-05-20T07:31:23.544Z] Waiting for Agree to terms checkbox to be visible...
+[2026-05-20T07:31:23.573Z] Agree to terms checkbox is visible.
+[2026-05-20T07:31:23.737Z] Clicking element: Checkout Button
+[2026-05-20T07:31:23.749Z] Waiting for Checkout Button to be visible...
+[2026-05-20T07:31:23.821Z] Checkout Button is visible.
+[2026-05-20T07:31:24.771Z] ----------------------------------------------------------------------------------------------------
+[2026-05-20T07:31:24.771Z] Checkout-015: Input invalid phone length short
+[2026-05-20T07:31:24.771Z] ----------------------------------------------------------------------------------------------------
+[2026-05-20T07:31:24.778Z] Inputting John into element: First Name
+[2026-05-20T07:31:24.782Z] Waiting for First Name to be visible...

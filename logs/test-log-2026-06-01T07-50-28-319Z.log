@@ -1,0 +1,15 @@
+[2026-06-01T07:50:34.503Z] Inputting h@gmail.com into element: Email
+[2026-06-01T07:50:34.506Z] Waiting for Email to be visible...
+[2026-06-01T07:50:34.672Z] Email is visible.
+[2026-06-01T07:50:35.770Z] Inputting 123456 into element: Password
+[2026-06-01T07:50:35.773Z] Waiting for Password to be visible...
+[2026-06-01T07:50:35.996Z] Password is visible.
+[2026-06-01T07:50:37.095Z] Clicking element: Login Button
+[2026-06-01T07:50:37.098Z] Waiting for Login Button to be visible...
+[2026-06-01T07:50:37.115Z] Login Button is visible.
+[2026-06-01T07:50:37.578Z] ----------------------------------------------------------------------------------------------------
+[2026-06-01T07:50:37.578Z] TC38: Add product to Wishlist
+[2026-06-01T07:50:37.578Z] ----------------------------------------------------------------------------------------------------
+[2026-06-01T07:50:38.804Z] Clicking element: Add to Wishlist Button
+[2026-06-01T07:50:38.808Z] Waiting for Add to Wishlist Button to be visible...
+[2026-06-01T07:50:38.958Z] Add to Wishlist Button is visible.

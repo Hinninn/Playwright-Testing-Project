@@ -1,0 +1,33 @@
+[2026-06-01T08:51:44.066Z] Inputting h@gmail.com into element: Email
+[2026-06-01T08:51:44.070Z] Waiting for Email to be visible...
+[2026-06-01T08:51:44.215Z] Email is visible.
+[2026-06-01T08:51:45.277Z] Inputting 123456 into element: Password
+[2026-06-01T08:51:45.280Z] Waiting for Password to be visible...
+[2026-06-01T08:51:45.295Z] Password is visible.
+[2026-06-01T08:51:46.360Z] Clicking element: Login Button
+[2026-06-01T08:51:46.363Z] Waiting for Login Button to be visible...
+[2026-06-01T08:51:46.378Z] Login Button is visible.
+[2026-06-01T08:51:46.788Z] ----------------------------------------------------------------------------------------------------
+[2026-06-01T08:51:46.788Z] TC38: Add product to Wishlist
+[2026-06-01T08:51:46.788Z] ----------------------------------------------------------------------------------------------------
+[2026-06-01T08:51:47.532Z] Clicking element: Add to Wishlist Button
+[2026-06-01T08:51:47.535Z] Waiting for Add to Wishlist Button to be visible...
+[2026-06-01T08:51:47.683Z] Add to Wishlist Button is visible.
+[2026-06-01T08:51:51.471Z] Inputting h@gmail.com into element: Email
+[2026-06-01T08:51:51.476Z] Waiting for Email to be visible...
+[2026-06-01T08:51:51.553Z] Email is visible.
+[2026-06-01T08:51:52.607Z] Inputting 123456 into element: Password
+[2026-06-01T08:51:52.610Z] Waiting for Password to be visible...
+[2026-06-01T08:51:52.620Z] Password is visible.
+[2026-06-01T08:51:53.689Z] Clicking element: Login Button
+[2026-06-01T08:51:53.692Z] Waiting for Login Button to be visible...
+[2026-06-01T08:51:53.705Z] Login Button is visible.
+[2026-06-01T08:51:54.095Z] ----------------------------------------------------------------------------------------------------
+[2026-06-01T08:51:54.095Z] TC39: Display Wishlist after adding multiple products
+[2026-06-01T08:51:54.095Z] ----------------------------------------------------------------------------------------------------
+[2026-06-01T08:51:54.812Z] Clicking element: Add to Wishlist Button
+[2026-06-01T08:51:54.815Z] Waiting for Add to Wishlist Button to be visible...
+[2026-06-01T08:51:54.946Z] Add to Wishlist Button is visible.
+[2026-06-01T08:51:55.955Z] Clicking element: Add to Wishlist Button
+[2026-06-01T08:51:55.960Z] Waiting for Add to Wishlist Button to be visible...
+[2026-06-01T08:51:56.085Z] Add to Wishlist Button is visible.

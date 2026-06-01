@@ -1,0 +1,77 @@
+[2026-06-01T07:09:27.082Z] Inputting h@gmail.com into element: Email
+[2026-06-01T07:09:27.086Z] Waiting for Email to be visible...
+[2026-06-01T07:09:27.584Z] Email is visible.
+[2026-06-01T07:09:28.645Z] Inputting 123456 into element: Password
+[2026-06-01T07:09:28.648Z] Waiting for Password to be visible...
+[2026-06-01T07:09:28.668Z] Password is visible.
+[2026-06-01T07:09:29.745Z] Clicking element: Login Button
+[2026-06-01T07:09:29.748Z] Waiting for Login Button to be visible...
+[2026-06-01T07:09:29.758Z] Login Button is visible.
+[2026-06-01T07:09:30.376Z] ----------------------------------------------------------------------------------------------------
+[2026-06-01T07:09:30.376Z] TC40: Remove product from Wishlist
+[2026-06-01T07:09:30.376Z] ----------------------------------------------------------------------------------------------------
+[2026-06-01T07:09:32.381Z] Clicking element: Add to Wishlist Button
+[2026-06-01T07:09:32.384Z] Waiting for Add to Wishlist Button to be visible...
+[2026-06-01T07:09:32.536Z] Add to Wishlist Button is visible.
+[2026-06-01T07:09:33.845Z] Clicking element: Remove Product Button
+[2026-06-01T07:09:33.850Z] Waiting for Remove Product Button to be visible...
+[2026-06-01T07:09:33.880Z] Remove Product Button is visible.
+[2026-06-01T07:09:37.654Z] Inputting h@gmail.com into element: Email
+[2026-06-01T07:09:37.657Z] Waiting for Email to be visible...
+[2026-06-01T07:09:37.731Z] Email is visible.
+[2026-06-01T07:09:38.774Z] Inputting 123456 into element: Password
+[2026-06-01T07:09:38.777Z] Waiting for Password to be visible...
+[2026-06-01T07:09:38.787Z] Password is visible.
+[2026-06-01T07:09:39.858Z] Clicking element: Login Button
+[2026-06-01T07:09:39.861Z] Waiting for Login Button to be visible...
+[2026-06-01T07:09:39.872Z] Login Button is visible.
+[2026-06-01T07:09:40.309Z] ----------------------------------------------------------------------------------------------------
+[2026-06-01T07:09:40.309Z] TC41: Move product from Wishlist to Cart
+[2026-06-01T07:09:40.309Z] ----------------------------------------------------------------------------------------------------
+[2026-06-01T07:09:41.801Z] Clicking element: Add to Wishlist Button
+[2026-06-01T07:09:41.804Z] Waiting for Add to Wishlist Button to be visible...
+[2026-06-01T07:09:41.967Z] Add to Wishlist Button is visible.
+[2026-06-01T07:09:42.907Z] Clicking element: Add to Cart Checkbox
+[2026-06-01T07:09:42.912Z] Waiting for Add to Cart Checkbox to be visible...
+[2026-06-01T07:09:43.019Z] Add to Cart Checkbox is visible.
+[2026-06-01T07:09:43.101Z] Clicking element: Add to Cart Button
+[2026-06-01T07:09:43.103Z] Waiting for Add to Cart Button to be visible...
+[2026-06-01T07:09:43.117Z] Add to Cart Button is visible.
+[2026-06-01T07:09:47.704Z] Inputting h@gmail.com into element: Email
+[2026-06-01T07:09:47.709Z] Waiting for Email to be visible...
+[2026-06-01T07:09:47.784Z] Email is visible.
+[2026-06-01T07:09:48.856Z] Inputting 123456 into element: Password
+[2026-06-01T07:09:48.858Z] Waiting for Password to be visible...
+[2026-06-01T07:09:48.869Z] Password is visible.
+[2026-06-01T07:09:49.920Z] Clicking element: Login Button
+[2026-06-01T07:09:49.923Z] Waiting for Login Button to be visible...
+[2026-06-01T07:09:49.934Z] Login Button is visible.
+[2026-06-01T07:09:50.408Z] ----------------------------------------------------------------------------------------------------
+[2026-06-01T07:09:50.408Z] TC44: Edit product in Wishlist then add to Cart
+[2026-06-01T07:09:50.408Z] ----------------------------------------------------------------------------------------------------
+[2026-06-01T07:09:52.243Z] Clicking element: Add to Wishlist Button
+[2026-06-01T07:09:52.246Z] Waiting for Add to Wishlist Button to be visible...
+[2026-06-01T07:09:52.415Z] Add to Wishlist Button is visible.
+[2026-06-01T07:09:53.586Z] Clicking element: Add to Cart Checkbox
+[2026-06-01T07:09:53.593Z] Waiting for Add to Cart Checkbox to be visible...
+[2026-06-01T07:09:53.612Z] Add to Cart Checkbox is visible.
+[2026-06-01T07:09:53.682Z] Clicking element: Add to Cart Button
+[2026-06-01T07:09:53.684Z] Waiting for Add to Cart Button to be visible...
+[2026-06-01T07:09:53.701Z] Add to Cart Button is visible.
+[2026-06-01T07:10:00.259Z] Inputting h@gmail.com into element: Email
+[2026-06-01T07:10:00.262Z] Waiting for Email to be visible...
+[2026-06-01T07:10:00.608Z] Email is visible.
+[2026-06-01T07:10:01.651Z] Inputting 123456 into element: Password
+[2026-06-01T07:10:01.654Z] Waiting for Password to be visible...
+[2026-06-01T07:10:01.664Z] Password is visible.
+[2026-06-01T07:10:02.734Z] Clicking element: Login Button
+[2026-06-01T07:10:02.737Z] Waiting for Login Button to be visible...
+[2026-06-01T07:10:02.746Z] Login Button is visible.
+[2026-06-01T07:10:03.180Z] ----------------------------------------------------------------------------------------------------
+[2026-06-01T07:10:03.180Z] TC45: Update quantity in Wishlist and Add to Cart
+[2026-06-01T07:10:03.180Z] ----------------------------------------------------------------------------------------------------
+[2026-06-01T07:10:05.220Z] Clicking element: Add to Wishlist Button
+[2026-06-01T07:10:05.227Z] Waiting for Add to Wishlist Button to be visible...
+[2026-06-01T07:10:05.363Z] Add to Wishlist Button is visible.
+[2026-06-01T07:10:06.507Z] Clicking element: Update Wishlist Button
+[2026-06-01T07:10:06.509Z] Waiting for Update Wishlist Button to be visible...

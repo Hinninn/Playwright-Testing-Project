@@ -1,0 +1,23 @@
+[2026-05-20T07:59:16.698Z] Inputting h@gmail.com into element: Email
+[2026-05-20T07:59:16.704Z] Waiting for Email to be visible...
+[2026-05-20T07:59:16.817Z] Email is visible.
+[2026-05-20T07:59:17.869Z] Inputting 123456 into element: Password
+[2026-05-20T07:59:17.873Z] Waiting for Password to be visible...
+[2026-05-20T07:59:17.905Z] Password is visible.
+[2026-05-20T07:59:18.993Z] Clicking element: Login Button
+[2026-05-20T07:59:18.995Z] Waiting for Login Button to be visible...
+[2026-05-20T07:59:19.011Z] Login Button is visible.
+[2026-05-20T07:59:20.261Z] Clicking element: Add first product to cart
+[2026-05-20T07:59:20.265Z] Waiting for Add first product to cart to be visible...
+[2026-05-20T07:59:20.321Z] Add first product to cart is visible.
+[2026-05-20T07:59:21.917Z] Clicking element: Agree to terms checkbox
+[2026-05-20T07:59:21.921Z] Waiting for Agree to terms checkbox to be visible...
+[2026-05-20T07:59:21.931Z] Agree to terms checkbox is visible.
+[2026-05-20T07:59:21.994Z] Clicking element: Checkout Button
+[2026-05-20T07:59:21.996Z] Waiting for Checkout Button to be visible...
+[2026-05-20T07:59:22.012Z] Checkout Button is visible.
+[2026-05-20T07:59:23.374Z] ----------------------------------------------------------------------------------------------------
+[2026-05-20T07:59:23.374Z] Checkout-012: Leave Zip/postal code empty
+[2026-05-20T07:59:23.374Z] ----------------------------------------------------------------------------------------------------
+[2026-05-20T07:59:23.378Z] Inputting John into element: First Name
+[2026-05-20T07:59:23.381Z] Waiting for First Name to be visible...

@@ -1,0 +1,25 @@
+{
+    "URLS": {
+        "WISHLIST": "https://demo.nopcommerce.com/wishlist",
+        "FAHRENHEIT": "https://demo.nopcommerce.com/fahrenheit-451-by-ray-bradbury",
+    "APPLE_ICAM": "https://demo.nopcommerce.com/apple-icam"
+    },
+    "SUCCESS_MSG": {
+        "addToWishlist": "The product has been added to your wishlist",
+        "addToCart": "The product has been added to your shopping cart"
+    },
+    "ERROR_MSG": {
+        "wishlistNameRequired": "A wishlist name is required."
+    },
+    "PRODUCTS": {
+        "FAHRENHEIT": "Fahrenheit 451 by Ray Bradbury",
+        "APPLE_ICAM": "Apple iCam"
+    },
+    "QUANTITY": {
+        "DEFAULT": "1",
+        "VALID": "2"
+    },
+    "CUSTOM_WISHLIST": {
+        "NAME": "My Wishlist"
+    }
+}

@@ -2,8 +2,6 @@ import { Page } from "@playwright/test";
 import { Locator } from "playwright";
 import { logStep } from "../helpers/Logger";
 import UIHelpers from "../helpers/UIHelpers";
-// import PaginationHelpers from "../helpers/PaginationHelpers";
-
 export class BasePage {
   readonly page: Page;
 

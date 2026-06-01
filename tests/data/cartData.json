@@ -3,9 +3,5 @@
     "ERROR_MSG": {
         "termsOfServiceRequired": "Please accept the terms of service"
     },
-    "VALID": {
-        "EMAIL": "h@gmail.com",
-        "PASSWORD": "123456"
-    },
     "TITLE": "nopCommerce demo store. Shopping Cart"
 }

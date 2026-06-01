@@ -18,7 +18,6 @@ export class LoginPage extends BasePage {
     super(page);
   }
 
-
   // Method to perform login action
   async login(email: string, password: string) {
     await this.inputText(this.emailInput, email, 'Email');
@@ -44,12 +43,6 @@ export class LoginPage extends BasePage {
     await this.page.click("body");
     }
 
-  async getPasswordType() {
-    return (await this.passwordInput.getAttribute('type')) || '';
-  }
-  async clickTogglePassword() {
-    await this.eyeClosed.click();
-  }
   async getErrorMessage(): Promise<string> {
     if (await this.errorEmailLocator.isVisible({ timeout: 3000 })) {
       return (await this.errorEmailLocator.textContent())?.trim() || '';

@@ -1,0 +1,18 @@
+[2026-05-31T09:52:57.735Z] ----------------------------------------------------------------------------------------------------
+[2026-05-31T09:52:57.735Z] TC35: Change quantity then add product to cart
+[2026-05-31T09:52:57.735Z] ----------------------------------------------------------------------------------------------------
+[2026-05-31T09:52:59.455Z] Clicking element: Add to Cart Button
+[2026-05-31T09:52:59.459Z] Waiting for Add to Cart Button to be visible...
+[2026-05-31T09:52:59.502Z] Add to Cart Button is visible.
+[2026-05-31T09:53:01.993Z] ----------------------------------------------------------------------------------------------------
+[2026-05-31T09:53:01.993Z] TC36: Fill gift card information then add product to cart
+[2026-05-31T09:53:01.993Z] ----------------------------------------------------------------------------------------------------
+[2026-05-31T09:53:02.884Z] Inputting hi into element: Recipient Name
+[2026-05-31T09:53:02.887Z] Waiting for Recipient Name to be visible...
+[2026-05-31T09:53:02.938Z] Recipient Name is visible.
+[2026-05-31T09:53:02.970Z] Inputting one into element: Sender Name
+[2026-05-31T09:53:02.973Z] Waiting for Sender Name to be visible...
+[2026-05-31T09:53:02.990Z] Sender Name is visible.
+[2026-05-31T09:53:03.014Z] Clicking element: Add to Cart Button
+[2026-05-31T09:53:03.016Z] Waiting for Add to Cart Button to be visible...
+[2026-05-31T09:53:03.038Z] Add to Cart Button is visible.

@@ -16,7 +16,7 @@
   },
   "INVALID": {
     "EMAIL": "invalid@gmail.com",
-    "PASSWORD": "123",
+    "WRONG_PASSWORD": "123",
     "EMAIL_MISSING_AT": "abcgmail.com",
     "EMAIL_WITH_SPACE": "abc @gmail.com",
     "EMAIL_WITH_SPECIAL_CHAR": "abc#@gmail.com",
